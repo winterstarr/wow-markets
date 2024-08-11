@@ -17299,3 +17299,6 @@ id,name,quality,level,required_level,item_class_name,item_class_id,item_subclass
 183914,Gummy Napkin,POOR,50,1,Miscellaneous,15,Junk,0,NON_EQUIP,1023,255,False
 62598,Fortune Card,COMMON,5,0,Tradeskill,7,Other,11,NON_EQUIP,400000,10000,False
 1652,Sturdy Lunchbox,COMMON,20,0,Container,1,Bag,0,BAG,20000,5000,True
+49925,Brazie's Handbook to Handling Human Hunnies,COMMON,1,0,Miscellaneous,15,Junk,0,NON_EQUIP,0,0,False
+139411,Underbelly Banquet,COMMON,1,1,Consumable,0,Other,8,NON_EQUIP,4,1,False
+132215,Stonefang's Jaw,POOR,40,1,Miscellaneous,15,Junk,0,NON_EQUIP,1340000,335000,False
