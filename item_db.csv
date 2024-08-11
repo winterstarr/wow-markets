@@ -17230,3 +17230,72 @@ id,name,quality,level,required_level,item_class_name,item_class_id,item_subclass
 206583,Ancient Pattern: Peculiar Glacial Mantle,EPIC,1,1,Recipe,9,Tailoring,2,NON_EQUIP,120000,30000,False
 18661,Schematic: World Enlarger,UNCOMMON,1,0,Recipe,9,Engineering,3,NON_EQUIP,12000,3000,False
 159939,Honorable Combatant's Intuitive Staff,RARE,59,50,Weapon,2,Staff,10,TWOHWEAPON,470818,94163,True
+22609,Craftsman's Writ - Brightcloth Pants,COMMON,25,23,Quest,12,Quest,0,NON_EQUIP,0,0,False
+90791,Mudsoaked Gloves,POOR,35,32,Armor,4,Leather,2,HAND,506917,101383,True
+62570,Fortune Card,COMMON,1,0,Tradeskill,7,Other,11,NON_EQUIP,4000,1000,False
+13877,47 Pound Grouper,COMMON,20,0,Miscellaneous,15,Junk,0,NON_EQUIP,120,30,False
+25844,Adamantite Rod,POOR,27,0,Tradeskill,7,Enchanting,12,NON_EQUIP,128000,32000,False
+18676,Sash of the Windreaver,RARE,29,23,Armor,4,Mail,3,WAIST,90729,18145,True
+28533,Wooden Boomerang,POOR,30,24,Weapon,2,Thrown,16,THROWN,114184,28546,True
+22606,Craftsman's Writ - Rugged Armor Kit,COMMON,25,23,Quest,12,Quest,0,NON_EQUIP,0,0,False
+212471,Copy of the Journal of Archmage Antonidas,COMMON,1,1,Miscellaneous,15,Junk,0,NON_EQUIP,1,1,False
+130205,Aggravating Note,POOR,1,1,Miscellaneous,15,Junk,0,NON_EQUIP,1,1,False
+183928,"A Polite, But Short Thank You Note",POOR,50,1,Miscellaneous,15,Junk,0,NON_EQUIP,1023,255,False
+15776,Pattern: Runic Leather Armor,UNCOMMON,1,0,Recipe,9,Leatherworking,1,NON_EQUIP,40000,10000,False
+13911,19 Pound Lobster,COMMON,23,0,Miscellaneous,15,Junk,0,NON_EQUIP,320,80,False
+20261,Shadow Panther Hide Belt,RARE,29,25,Armor,4,Leather,2,WAIST,88502,17700,True
+143668,Tarnished Mithril Chain of Heroism,POOR,39,45,Armor,4,Miscellaneous,0,NECK,2650614,530122,True
+70010,Bloodthirsty Pyrium Belt,RARE,37,32,Armor,4,Plate,4,WAIST,175871,35174,True
+44612,Dalaran Swiss Wheel,COMMON,28,26,Consumable,0,Other,8,NON_EQUIP,85000,2125,False
+14488,Pattern: Runecloth Boots,COMMON,1,0,Recipe,9,Tailoring,2,NON_EQUIP,20000,5000,False
+62590,Fortune Card,COMMON,3,0,Tradeskill,7,Other,11,NON_EQUIP,200000,5000,False
+19921,Zulian Hacker,RARE,29,25,Weapon,2,Axe,0,WEAPON,285591,57118,True
+60843,Fortune Card,RARE,17,0,Tradeskill,7,Other,11,NON_EQUIP,20000000,50000,False
+44610,Fresh Dalaran Bread,COMMON,28,26,Consumable,0,Other,8,NON_EQUIP,85000,425,False
+18401,Nostro's Compendium of Dragon Slaying,POOR,25,25,Quest,12,Quest,0,NON_EQUIP,0,0,False
+23695,Featherbeard's Map,POOR,1,0,Miscellaneous,15,Junk,0,NON_EQUIP,0,0,False
+13903,22 Pound Salmon,COMMON,28,0,Miscellaneous,15,Junk,0,HOLDABLE,55362,13840,True
+62566,Fortune Card,COMMON,1,0,Tradeskill,7,Other,11,NON_EQUIP,4000,1000,False
+62557,Fortune Card,COMMON,1,0,Tradeskill,7,Other,11,NON_EQUIP,4000,1000,False
+70009,Bloodthirsty Pyrium Shoulders,RARE,37,32,Armor,4,Plate,4,SHOULDER,260807,52161,True
+29201,Thick Bronze Darts,POOR,12,7,Weapon,2,Thrown,16,THROWN,600,150,True
+17413,Codex: Prayer of Fortitude,POOR,21,21,Recipe,9,Book,0,NON_EQUIP,31000,7750,False
+124024,Leystone Armor Stand,COMMON,1,1,Quest,12,Quest,0,NON_EQUIP,50000,12500,False
+15751,Pattern: Blue Dragonscale Breastplate,COMMON,1,0,Recipe,9,Leatherworking,1,NON_EQUIP,20000,5000,False
+34838,Mariner's Log,POOR,1,0,Miscellaneous,15,Junk,0,NON_EQUIP,2680,670,False
+153002,Small Charm,POOR,1,0,Miscellaneous,15,Junk,0,NON_EQUIP,200000,50000,False
+22614,Craftsman's Writ - Thorium Grenade,COMMON,25,23,Quest,12,Quest,0,NON_EQUIP,0,0,False
+13884,49 Pound Redgill,COMMON,24,0,Miscellaneous,15,Junk,0,HOLDABLE,27754,6938,True
+70021,Bloodthirsty Leather Boots,RARE,37,32,Armor,4,Leather,2,FEET,279925,55985,True
+183695,Decaying Dark Naaru Shard,POOR,1,1,Miscellaneous,15,Junk,0,NON_EQUIP,8755000,2188750,False
+9423,The Jackhammer,RARE,22,15,Weapon,2,Mace,5,TWOHWEAPON,39809,7961,True
+72068,Guardian Cub,RARE,1,0,Miscellaneous,15,Companion Pets,2,NON_EQUIP,0,0,False
+56526,Bloodied Dragonscale Bracers,RARE,37,32,Armor,4,Mail,3,WRIST,176872,35374,True
+70032,Bloodthirsty Wyrmhide Gloves,RARE,37,32,Armor,4,Leather,2,HAND,182002,36400,True
+16654,Shredder Operating Manual - Page 10,COMMON,1,0,Quest,12,Quest,0,NON_EQUIP,250,62,False
+56527,Bloodied Dragonscale Shoulders,RARE,37,32,Armor,4,Mail,3,SHOULDER,264300,52860,True
+65358,Elementium Rod,POOR,30,0,Tradeskill,7,Enchanting,12,NON_EQUIP,48000,12000,False
+41745,Titanium Rod,POOR,27,0,Tradeskill,7,Enchanting,12,NON_EQUIP,48000,12000,False
+44714,Tome of Dalaran Brilliance,UNCOMMON,30,30,Recipe,9,Book,0,NON_EQUIP,5000000,1250000,False
+25843,Fel Iron Rod,POOR,25,0,Tradeskill,7,Enchanting,12,NON_EQUIP,32000,8000,False
+13883,45 Pound Redgill,COMMON,24,0,Miscellaneous,15,Junk,0,HOLDABLE,30565,7641,True
+16206,Arcanite Rod,POOR,23,0,Tradeskill,7,Enchanting,12,NON_EQUIP,4000,1000,False
+212482,Copy of The Schools of Arcane Magic - Illusion,COMMON,1,1,Miscellaneous,15,Junk,0,NON_EQUIP,1,1,False
+62602,Fortune Card,COMMON,7,0,Tradeskill,7,Other,11,NON_EQUIP,2000000,50000,False
+183920,Bent Fork,POOR,50,1,Miscellaneous,15,Junk,0,NON_EQUIP,1023,255,False
+55424,Sorrowmurk Ring,UNCOMMON,36,32,Armor,4,Miscellaneous,0,FINGER,277462,69365,True
+62605,Fortune Card,COMMON,7,0,Tradeskill,7,Other,11,NON_EQUIP,2000000,500000,False
+104232,Charred Recipe,POOR,35,0,Miscellaneous,15,Junk,0,NON_EQUIP,0,0,False
+70073,Bloodthirsty Ruby Signet,RARE,37,32,Armor,4,Miscellaneous,0,FINGER,497824,124456,True
+62552,Fortune Card,COMMON,1,0,Tradeskill,7,Other,11,NON_EQUIP,4000,1000,False
+205696,Amethyst Deceiver Mushroom,POOR,70,1,Miscellaneous,15,Junk,0,NON_EQUIP,400000,1,False
+183921,Crumpled Napkin,POOR,50,1,Miscellaneous,15,Junk,0,NON_EQUIP,1023,255,False
+56522,Bloodied Leather Bracers,RARE,37,32,Armor,4,Leather,2,WRIST,174198,34839,True
+22897,Tome of Conjure Food,POOR,25,25,Recipe,9,Book,0,NON_EQUIP,40000,10000,False
+30437,Jagged Red Crystal,COMMON,1,0,Miscellaneous,15,Junk,0,NON_EQUIP,0,0,False
+25845,Eternium Rod,POOR,28,0,Tradeskill,7,Enchanting,12,NON_EQUIP,160000,40000,False
+183932,Torn Bet Voucher,POOR,50,1,Miscellaneous,15,Junk,0,NON_EQUIP,1023,255,False
+20475,Adamantite Arrow Maker,COMMON,1,0,Miscellaneous,15,Junk,0,NON_EQUIP,25000,6250,False
+183914,Gummy Napkin,POOR,50,1,Miscellaneous,15,Junk,0,NON_EQUIP,1023,255,False
+62598,Fortune Card,COMMON,5,0,Tradeskill,7,Other,11,NON_EQUIP,400000,10000,False
+1652,Sturdy Lunchbox,COMMON,20,0,Container,1,Bag,0,BAG,20000,5000,True
