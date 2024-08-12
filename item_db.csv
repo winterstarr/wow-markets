@@ -17302,3 +17302,17 @@ id,name,quality,level,required_level,item_class_name,item_class_id,item_subclass
 49925,Brazie's Handbook to Handling Human Hunnies,COMMON,1,0,Miscellaneous,15,Junk,0,NON_EQUIP,0,0,False
 139411,Underbelly Banquet,COMMON,1,1,Consumable,0,Other,8,NON_EQUIP,4,1,False
 132215,Stonefang's Jaw,POOR,40,1,Miscellaneous,15,Junk,0,NON_EQUIP,1340000,335000,False
+62560,Fortune Card,COMMON,1,0,Tradeskill,7,Other,11,NON_EQUIP,4000,1000,False
+13905,29 Pound Salmon,COMMON,28,0,Miscellaneous,15,Junk,0,HOLDABLE,55777,13944,True
+70005,Bloodthirsty Pyrium Boots,RARE,37,32,Armor,4,Plate,4,FEET,283933,56786,True
+24217,Design: Regal Talasite,RARE,27,0,Recipe,9,Jewelcrafting,10,NON_EQUIP,120000,30000,False
+70031,Bloodthirsty Wyrmhide Chest,RARE,37,32,Armor,4,Leather,2,CHEST,360597,72119,True
+70076,Bloodthirsty Ruby Choker,RARE,37,32,Armor,4,Miscellaneous,0,NECK,497824,124456,True
+16648,Shredder Operating Manual - Page 4,COMMON,1,0,Quest,12,Quest,0,NON_EQUIP,250,62,False
+60839,Fortune Card,COMMON,5,0,Tradeskill,7,Other,11,NON_EQUIP,400000,10000,False
+16652,Shredder Operating Manual - Page 8,COMMON,1,0,Quest,12,Quest,0,NON_EQUIP,250,62,False
+31876,Design: Shifting Nightseye,RARE,27,0,Recipe,9,Jewelcrafting,10,NON_EQUIP,120000,30000,False
+23878,Impact Site Crystal Sample,COMMON,1,0,Quest,12,Quest,0,NON_EQUIP,0,0,False
+31871,Design: Shifting Shadow Draenite,UNCOMMON,1,0,Recipe,9,Jewelcrafting,10,NON_EQUIP,60000,15000,False
+36713,Reaching Star,POOR,32,27,Weapon,2,Thrown,16,THROWN,114184,28546,True
+49923,Brazie's Document on Dwarven Dates in Dun Morogh,COMMON,1,0,Miscellaneous,15,Junk,0,NON_EQUIP,0,0,False
