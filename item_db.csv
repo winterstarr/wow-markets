@@ -17316,3 +17316,18 @@ id,name,quality,level,required_level,item_class_name,item_class_id,item_subclass
 31871,Design: Shifting Shadow Draenite,UNCOMMON,1,0,Recipe,9,Jewelcrafting,10,NON_EQUIP,60000,15000,False
 36713,Reaching Star,POOR,32,27,Weapon,2,Thrown,16,THROWN,114184,28546,True
 49923,Brazie's Document on Dwarven Dates in Dun Morogh,COMMON,1,0,Miscellaneous,15,Junk,0,NON_EQUIP,0,0,False
+54496,Emberfire Cowl,RARE,37,32,Armor,4,Cloth,1,HEAD,267279,53455,True
+210368,Arctic Warden's Girdle,EPIC,441,70,Armor,4,Plate,4,WAIST,1458536,291707,True
+23147,Design: Sovereign Shadow Draenite,UNCOMMON,1,0,Recipe,9,Jewelcrafting,10,NON_EQUIP,60000,15000,False
+91856,Sturdy Crab Crate,COMMON,1,15,Quest,12,Quest,0,NON_EQUIP,0,0,False
+104210,Charred Recipe,POOR,35,0,Miscellaneous,15,Junk,0,NON_EQUIP,0,0,False
+29202,Whirling Steel Axes,POOR,22,15,Weapon,2,Thrown,16,THROWN,2400,600,True
+16656,Shredder Operating Manual - Page 12,COMMON,1,0,Quest,12,Quest,0,NON_EQUIP,250,62,False
+24207,Design: Subtle Dawnstone,RARE,27,0,Recipe,9,Jewelcrafting,10,NON_EQUIP,120000,30000,False
+200637,Talisman of the Maruuk,POOR,1,1,Miscellaneous,15,Junk,0,NON_EQUIP,50000,12500,False
+4098,Carefully Folded Note,POOR,1,1,Miscellaneous,15,Junk,0,NON_EQUIP,1,0,False
+28537,Wildhammer Throwing Axe,POOR,31,25,Weapon,2,Thrown,16,THROWN,128092,32023,True
+6301,Old Teamster's Skull,POOR,1,0,Miscellaneous,15,Junk,0,NON_EQUIP,80,20,False
+15907,Left-Handed Claw,COMMON,16,10,Weapon,2,Fist Weapon,13,WEAPON,8237,1647,True
+93671,Ghastly Charger's Skull,EPIC,30,10,Miscellaneous,15,Mount,5,NON_EQUIP,100000,0,False
+151750,Pepper's Bridle,POOR,46,1,Consumable,0,Other,8,NON_EQUIP,262304,750,False
