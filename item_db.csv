@@ -17331,3 +17331,21 @@ id,name,quality,level,required_level,item_class_name,item_class_id,item_subclass
 15907,Left-Handed Claw,COMMON,16,10,Weapon,2,Fist Weapon,13,WEAPON,8237,1647,True
 93671,Ghastly Charger's Skull,EPIC,30,10,Miscellaneous,15,Mount,5,NON_EQUIP,100000,0,False
 151750,Pepper's Bridle,POOR,46,1,Consumable,0,Other,8,NON_EQUIP,262304,750,False
+62576,Fortune Card,COMMON,1,0,Tradeskill,7,Other,11,NON_EQUIP,4000,1000,False
+62582,Fortune Card,COMMON,3,0,Tradeskill,7,Other,11,NON_EQUIP,200000,50000,False
+22602,Craftsman's Writ - Volcanic Hammer,COMMON,25,23,Quest,12,Quest,0,NON_EQUIP,0,0,False
+62584,Fortune Card,COMMON,3,0,Tradeskill,7,Other,11,NON_EQUIP,200000,5000,False
+23815,Ruined Schematic,POOR,1,0,Miscellaneous,15,Junk,0,NON_EQUIP,60000,15000,False
+62599,Fortune Card,COMMON,5,0,Tradeskill,7,Other,11,NON_EQUIP,400000,10000,False
+11151,Ancient Enchanting Vellum,POOR,13,0,Recipe,9,Enchanting,8,NON_EQUIP,30000,7500,False
+62591,Fortune Card,COMMON,3,0,Tradeskill,7,Other,11,NON_EQUIP,200000,5000,False
+22618,Craftsman's Writ - Major Healing Potion,COMMON,25,23,Quest,12,Quest,0,NON_EQUIP,0,0,False
+93194,Bloodied Scroll,POOR,1,1,Miscellaneous,15,Junk,0,NON_EQUIP,200000,50000,False
+44506,Saronite Arrow Maker,COMMON,30,0,Consumable,0,Other,8,NON_EQUIP,30000,7500,False
+1790,Patched Cloak,POOR,9,5,Armor,4,Cloth,1,CLOAK,819,163,True
+18688,Imp in a Jar,COMMON,1,0,Quest,12,Quest,0,NON_EQUIP,0,0,False
+62556,Fortune Card,COMMON,1,0,Tradeskill,7,Other,11,NON_EQUIP,4000,1000,False
+70068,Bloodthirsty Fur Cloak,RARE,37,32,Armor,4,Cloth,1,CLOAK,379803,75960,True
+27689,Ruined Recipe,POOR,1,0,Miscellaneous,15,Junk,0,NON_EQUIP,0,0,False
+62555,Fortune Card,COMMON,1,0,Tradeskill,7,Other,11,NON_EQUIP,4000,1000,False
+62559,Fortune Card,COMMON,1,0,Tradeskill,7,Other,11,NON_EQUIP,4000,1000,False
