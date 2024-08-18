@@ -17349,3 +17349,15 @@ id,name,quality,level,required_level,item_class_name,item_class_id,item_subclass
 27689,Ruined Recipe,POOR,1,0,Miscellaneous,15,Junk,0,NON_EQUIP,0,0,False
 62555,Fortune Card,COMMON,1,0,Tradeskill,7,Other,11,NON_EQUIP,4000,1000,False
 62559,Fortune Card,COMMON,1,0,Tradeskill,7,Other,11,NON_EQUIP,4000,1000,False
+36717,Venture Co. Throwing Axe,POOR,33,28,Weapon,2,Thrown,16,THROWN,128092,32023,True
+167003,Schematic: True Iron Oven Mitts,POOR,1,1,Miscellaneous,15,Junk,0,NON_EQUIP,3600,900,False
+54456,Mournful Essence,COMMON,1,1,Quest,12,Quest,0,NON_EQUIP,0,0,False
+49922,Brazie's Dictionary of Devilish Draenei Damsels,COMMON,1,0,Miscellaneous,15,Junk,0,NON_EQUIP,0,0,False
+22608,Craftsman's Writ - Runic Leather Pants,COMMON,25,23,Quest,12,Quest,0,NON_EQUIP,0,0,False
+21737,Schematic: Cluster Launcher,UNCOMMON,1,0,Recipe,9,Engineering,3,NON_EQUIP,16000,4000,False
+167004,Schematic: Ultra Time Enhancer MK 2,POOR,1,1,Miscellaneous,15,Junk,0,NON_EQUIP,3600,900,False
+159678,Century Sauce,COMMON,1,1,Miscellaneous,15,Other,4,NON_EQUIP,1000000,250000,False
+167002,Schematic: Undertuned Corgi Goggles,POOR,1,1,Miscellaneous,15,Junk,0,NON_EQUIP,3600,900,False
+13912,21 Pound Lobster,COMMON,23,0,Miscellaneous,15,Junk,0,NON_EQUIP,360,90,False
+44507,Ultrasafe Bullet Machine,POOR,1,0,Miscellaneous,15,Junk,0,NON_EQUIP,25000,6250,False
+49924,Brazie's Notes on Naughty Night Elves,COMMON,1,0,Miscellaneous,15,Junk,0,NON_EQUIP,0,0,False
