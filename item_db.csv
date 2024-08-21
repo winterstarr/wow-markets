@@ -17371,3 +17371,12 @@ id,name,quality,level,required_level,item_class_name,item_class_id,item_subclass
 62242,Runed Dragonscale,POOR,36,0,Miscellaneous,15,Junk,0,NON_EQUIP,332437,66487,False
 66988,Ashes of Youth,POOR,36,0,Miscellaneous,15,Junk,0,NON_EQUIP,341454,68290,False
 44602,Magic Consumed Book,POOR,30,30,Miscellaneous,15,Junk,0,NON_EQUIP,4750000,1187500,False
+44447,Dragonscale Ammo Pouch,RARE,31,0,Container,1,Bag,0,BAG,150000,37500,True
+9254,Cuergo's Treasure Map,POOR,1,0,Miscellaneous,15,Junk,0,NON_EQUIP,40000,10000,False
+62554,Fortune Card,COMMON,1,0,Tradeskill,7,Other,11,NON_EQUIP,4000,1000,False
+34504,Adamantite Shell Machine,POOR,27,0,Miscellaneous,15,Junk,0,NON_EQUIP,25000,6250,False
+28542,Heartseeker Knives,POOR,32,27,Weapon,2,Thrown,16,THROWN,145472,36368,True
+60844,Fortune Card,EPIC,32,0,Tradeskill,7,Other,11,NON_EQUIP,200000000,50000000,False
+1733,Worn Cloak,POOR,8,5,Armor,4,Cloth,1,CLOAK,775,155,True
+5791,Henrig Lonebrow's Journal,COMMON,11,11,Quest,12,Quest,0,NON_EQUIP,0,0,False
+62606,Fortune Card,RARE,17,0,Tradeskill,7,Other,11,NON_EQUIP,20000000,50000,False
