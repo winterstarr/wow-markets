@@ -1,0 +1,203 @@
+expansion,heroicLevel,id,instance,lfgReqLevel,maxlevel,minlevel,name,reqlevel,territory,popularity,raid,category,nplayers
+3.0,80.0,4950,5,30.0,35.0,30.0,Grim Batol,83.0,2,1483,False,,
+7.0,80.0,9354,5,,50.0,50.0,Siege of Boralus,,2,1215,False,,
+9.0,70.0,14514,5,,70.0,10.0,Dawn of the Infinite,,2,1211,False,,
+8.0,80.0,13334,5,50.0,60.0,50.0,Mists of Tirna Scithe,,2,1121,False,,
+8.0,80.0,12916,5,50.0,60.0,50.0,The Necrotic Wake,,2,1102,False,,
+10.0,80.0,15093,5,77.0,80.0,77.0,"Ara-Kara, City of Echoes",,2,998,False,,
+10.0,80.0,14971,5,80.0,80.0,80.0,The Dawnbreaker,,2,930,False,,
+7.0,50.0,8064,5,10.0,60.0,10.0,The MOTHERLODE!!,,2,864,False,,
+6.0,,8443,5,,45.0,45.0,Return to Karazhan,,2,815,False,,
+7.0,50.0,9526,5,,50.0,50.0,Kings' Rest,,2,797,False,,
+10.0,80.0,14883,5,73.0,80.0,73.0,The Stonevault,,2,777,False,,
+8.0,60.0,13577,5,,60.0,60.0,"Tazavesh, the Veiled Market",,2,761,False,,
+,,1584,2,20.0,30.0,20.0,Blackrock Depths,42.0,2,710,False,,
+10.0,80.0,14979,5,80.0,80.0,80.0,City of Threads,,2,687,False,,
+7.0,50.0,9028,5,10.0,60.0,10.0,Atal'Dazar,,2,598,False,,
+3.0,35.0,1977,5,,35.0,35.0,Zul'Gurub,,2,590,False,,
+6.0,45.0,8527,5,,45.0,45.0,Cathedral of Eternal Night,,2,571,False,,
+3.0,35.0,3805,5,,35.0,35.0,Zul'Aman,,2,566,False,,
+9.0,70.0,13991,5,30.0,70.0,30.0,Brackenhide Hollow,,2,547,False,,
+,,2557,2,15.0,30.0,15.0,Dire Maul,31.0,2,543,False,,
+,,2017,2,20.0,30.0,20.0,Stratholme,37.0,2,519,False,,
+3.0,35.0,5035,5,30.0,35.0,30.0,The Vortex Pinnacle,80.0,2,490,False,,
+6.0,45.0,7546,5,10.0,45.0,10.0,Neltharion's Lair,98.0,2,482,False,,
+9.0,70.0,13954,5,35.0,70.0,35.0,The Azure Vault,,2,475,False,,
+4.0,40.0,6182,5,40.0,70.0,40.0,Mogu'shan Palace,87.0,2,460,False,,
+7.0,50.0,9327,5,10.0,60.0,10.0,Tol Dagor,,2,446,False,,
+7.0,50.0,10225,5,,50.0,50.0,Operation: Mechagon,,2,437,False,,
+4.0,10.0,6066,5,10.0,70.0,10.0,Scholomance,33.0,2,426,False,,
+6.0,45.0,8040,5,10.0,45.0,10.0,Eye of Azshara,100.0,2,415,False,,
+1.0,30.0,4131,5,25.0,30.0,25.0,Magisters' Terrace,65.0,2,414,False,,
+9.0,70.0,14063,5,10.0,70.0,10.0,Ruby Life Pools,,2,390,False,,
+9.0,70.0,14011,5,15.0,70.0,15.0,Neltharus,,2,389,False,,
+7.0,50.0,9164,5,10.0,60.0,10.0,Freehold,,2,386,False,,
+6.0,45.0,7672,5,10.0,45.0,10.0,Halls of Valor,98.0,2,386,False,,
+3.0,35.0,5396,5,30.0,35.0,30.0,Lost City of the Tol'vir,83.0,2,379,False,,
+,,1583,2,20.0,30.0,20.0,Blackrock Spire,48.0,2,378,False,,
+6.0,45.0,7805,5,10.0,45.0,10.0,Black Rook Hold,110.0,2,371,False,,
+9.0,70.0,13982,5,20.0,70.0,20.0,The Nokhud Offensive,,2,364,False,,
+6.0,45.0,7812,5,10.0,45.0,10.0,Maw of Souls,,2,364,False,,
+9.0,70.0,14032,5,45.0,70.0,45.0,Algeth'ar Academy,,2,358,False,,
+9.0,70.0,14082,5,40.0,70.0,40.0,Halls of Infusion,,2,358,False,,
+8.0,60.0,13228,5,50.0,60.0,50.0,Plaguefall,,2,352,False,,
+6.0,45.0,8910,5,,45.0,45.0,The Seat of the Triumvirate,,2,352,False,,
+5.0,40.0,7307,5,35.0,40.0,35.0,Upper Blackrock Spire,100.0,2,351,False,,
+3.0,35.0,5088,5,30.0,35.0,30.0,The Stonecore,80.0,2,344,False,,
+3.0,35.0,4926,5,30.0,35.0,30.0,Blackrock Caverns,77.0,2,329,False,,
+1.0,30.0,3791,5,15.0,30.0,15.0,Sethekk Halls,63.0,2,327,False,,
+6.0,45.0,7787,5,10.0,45.0,10.0,Vault of the Wardens,110.0,2,325,False,,
+,35.0,1581,5,7.0,30.0,7.0,The Deadmines,10.0,0,323,False,,
+,,2437,2,7.0,30.0,7.0,Ragefire Chasm,10.0,1,323,False,,
+,35.0,209,5,8.0,30.0,8.0,Shadowfang Keep,11.0,1,321,False,,
+1.0,30.0,3717,5,10.0,30.0,10.0,The Slave Pens,59.0,2,318,False,,
+6.0,45.0,7673,5,10.0,45.0,10.0,Darkheart Thicket,98.0,2,317,False,,
+,,718,2,8.0,30.0,8.0,Wailing Caverns,10.0,1,312,False,,
+7.0,50.0,9391,5,10.0,60.0,10.0,The Underrot,,2,304,False,,
+4.0,10.0,6052,5,10.0,70.0,10.0,Scarlet Halls,21.0,2,280,False,,
+,,1477,2,20.0,30.0,20.0,Sunken Temple,45.0,2,280,False,,
+3.0,35.0,5788,5,,35.0,35.0,Well of Eternity,,2,278,False,,
+6.0,45.0,8079,5,,45.0,45.0,Court of Stars,,2,273,False,,
+1.0,30.0,3715,5,20.0,30.0,20.0,The Steamvault,65.0,2,273,False,,
+,,1337,2,15.0,30.0,15.0,Uldaman,30.0,2,273,False,,
+1.0,30.0,2367,5,15.0,30.0,15.0,Old Hillsbrad Foothills,63.0,2,270,False,,
+3.0,35.0,4945,5,30.0,35.0,30.0,Halls of Origination,83.0,2,270,False,,
+,,719,2,10.0,30.0,10.0,Blackfathom Deeps,15.0,2,268,False,,
+6.0,45.0,7996,5,10.0,45.0,10.0,Violet Hold,105.0,2,261,False,,
+1.0,30.0,3714,5,20.0,30.0,20.0,The Shattered Halls,65.0,2,257,False,,
+1.0,30.0,3562,5,10.0,30.0,10.0,Hellfire Ramparts,57.0,2,250,False,,
+3.0,35.0,5844,5,,35.0,35.0,Hour of Twilight,,2,240,False,,
+1.0,30.0,3716,5,10.0,30.0,10.0,The Underbog,60.0,2,240,False,,
+,,1176,2,15.0,30.0,15.0,Zul'Farrak,39.0,2,240,False,,
+7.0,50.0,9527,5,10.0,60.0,10.0,Temple of Sethraliss,,2,238,False,,
+,,722,2,15.0,30.0,15.0,Razorfen Downs,35.0,2,236,False,,
+1.0,30.0,3792,5,15.0,30.0,15.0,Mana-Tombs,61.0,2,234,False,,
+7.0,50.0,9424,5,10.0,60.0,10.0,Waycrest Manor,,2,232,False,,
+10.0,80.0,14938,5,71.0,80.0,71.0,The Rookery,,2,230,False,,
+8.0,60.0,13309,5,50.0,60.0,50.0,De Other Side,,2,229,False,,
+7.0,50.0,9525,5,10.0,60.0,10.0,Shrine of the Storm,,2,229,False,,
+4.0,30.0,6214,5,30.0,70.0,30.0,Siege of Niuzao Temple,90.0,2,227,False,,
+3.0,35.0,5789,5,,35.0,35.0,End Time,,2,224,False,,
+8.0,60.0,12831,5,50.0,60.0,50.0,Halls of Atonement,,2,223,False,,
+4.0,20.0,5963,5,20.0,70.0,20.0,Stormstout Brewery,85.0,2,221,False,,
+2.0,30.0,4100,5,25.0,30.0,25.0,The Culling of Stratholme,75.0,2,218,False,,
+,,2057,2,,30.0,15.0,Scholomance,,2,212,False,,
+10.0,80.0,15103,5,80.0,80.0,80.0,Cinderbrew Meadery,,2,211,False,,
+4.0,10.0,5956,5,10.0,70.0,10.0,Temple of the Jade Serpent,85.0,2,209,False,,
+1.0,30.0,2366,5,25.0,30.0,25.0,The Black Morass,65.0,2,206,False,,
+1.0,30.0,3848,5,25.0,30.0,25.0,The Arcatraz,65.0,2,203,False,,
+4.0,40.0,5976,5,40.0,70.0,40.0,Gate of the Setting Sun,,2,202,False,,
+1.0,30.0,3847,5,20.0,30.0,20.0,The Botanica,65.0,2,201,False,,
+8.0,60.0,12842,5,50.0,60.0,50.0,Sanguine Depths,,2,201,False,,
+1.0,30.0,3789,5,20.0,30.0,20.0,Shadow Labyrinth,65.0,2,198,False,,
+,,796,2,,30.0,10.0,Scarlet Monastery,,1,195,False,,
+,,721,2,10.0,30.0,10.0,Gnomeregan,19.0,0,194,False,,
+10.0,80.0,14954,5,75.0,80.0,75.0,Priory of the Sacred Flame,,2,189,False,,
+1.0,30.0,3713,5,10.0,30.0,10.0,The Blood Furnace,58.0,2,186,False,,
+4.0,25.0,5918,5,25.0,70.0,25.0,Shado-Pan Monastery,90.0,2,186,False,,
+3.0,35.0,5004,5,30.0,35.0,30.0,Throne of the Tides,77.0,2,184,False,,
+8.0,60.0,12841,5,50.0,60.0,50.0,Theater of Pain,,2,183,False,,
+,,2100,2,10.0,30.0,10.0,Maraudon,25.0,2,181,False,,
+2.0,30.0,4820,5,25.0,30.0,25.0,Halls of Reflection,,2,180,False,,
+,,491,2,10.0,30.0,10.0,Razorfen Kraul,25.0,1,176,False,,
+5.0,40.0,6912,5,20.0,40.0,20.0,Auchindoun,94.0,2,171,False,,
+10.0,80.0,14882,5,80.0,80.0,80.0,Darkflame Cleft,,2,168,False,,
+6.0,45.0,7855,5,,45.0,45.0,The Arcway,,2,167,False,,
+8.0,60.0,12837,5,50.0,60.0,50.0,Spires of Ascension,,2,161,False,,
+,,717,2,10.0,30.0,10.0,The Stockade,15.0,0,158,False,,
+5.0,40.0,6988,5,30.0,40.0,30.0,Skyreach,96.0,2,155,False,,
+8.0,,10581,2,,30.0,15.0,Darkmaul Citadel,,2,153,False,,
+5.0,40.0,6932,5,10.0,40.0,10.0,Shadowmoon Burial Grounds,100.0,2,152,False,,
+5.0,40.0,6984,5,35.0,40.0,35.0,Grimrail Depot,100.0,2,148,False,,
+9.0,70.0,13968,5,25.0,70.0,25.0,Uldaman,,2,148,False,,
+1.0,30.0,3849,5,20.0,30.0,20.0,The Mechanar,65.0,2,147,False,,
+4.0,10.0,6109,5,10.0,70.0,10.0,Scarlet Monastery,23.0,2,147,False,,
+2.0,30.0,4723,5,25.0,30.0,25.0,Crusaders' Coliseum: Trial of the Champion,75.0,2,140,False,,
+1.0,30.0,3790,5,15.0,30.0,15.0,Auchenai Crypts,62.0,2,133,False,,
+5.0,40.0,6874,5,10.0,40.0,10.0,Bloodmaul Slag Mines,90.0,2,131,False,,
+5.0,40.0,7109,5,35.0,40.0,35.0,The Everbloom,100.0,2,129,False,,
+2.0,30.0,1196,5,20.0,30.0,20.0,Utgarde Pinnacle,,2,122,False,,
+2.0,30.0,4809,5,25.0,30.0,25.0,The Forge of Souls,75.0,2,120,False,,
+5.0,40.0,6951,5,15.0,40.0,15.0,Iron Docks,92.0,2,119,False,,
+2.0,30.0,4228,5,20.0,30.0,20.0,The Oculus,75.0,2,109,False,,
+2.0,30.0,4265,5,10.0,30.0,10.0,The Nexus,68.0,2,104,False,,
+6.0,,7811,2,,45.0,10.0,The Naglfar,,2,97,False,,
+2.0,30.0,4813,5,25.0,30.0,25.0,Pit of Saron,,2,87,False,,
+2.0,30.0,4415,5,15.0,30.0,15.0,The Violet Hold,72.0,2,87,False,,
+2.0,30.0,206,5,10.0,30.0,10.0,Utgarde Keep,67.0,2,83,False,,
+2.0,30.0,4494,5,15.0,30.0,15.0,Ahn'kahet: The Old Kingdom,70.0,2,82,False,,
+2.0,30.0,4196,5,15.0,30.0,15.0,Drak'Tharon Keep,71.0,2,80,False,,
+2.0,30.0,4264,5,20.0,30.0,20.0,Halls of Stone,74.0,2,65,False,,
+2.0,30.0,4277,5,15.0,30.0,15.0,Azjol-Nerub,69.0,2,52,False,,
+3.0,,5786,2,,35.0,35.0,The Nexus,,2,46,False,,
+2.0,30.0,4272,5,20.0,30.0,20.0,Halls of Lightning,75.0,2,45,False,,
+7.0,,9382,2,,60.0,10.0,Sacrificial Pits,,2,45,False,,
+2.0,30.0,4416,5,20.0,30.0,20.0,Gundrak,73.0,2,44,False,,
+6.0,,8583,2,,45.0,10.0,Black Rook Hold,,2,43,False,,
+9.0,,14872,2,,30.0,10.0,Scarlet Monastery,,2,43,False,,
+9.0,,14143,2,,70.0,10.0,The Dig,,2,38,False,,
+9.0,,14144,2,,70.0,10.0,Hall of the Keepers,,2,37,False,,
+4.0,,6386,2,,30.0,10.0,Chapel Gardens,,2,35,False,,
+4.0,,6384,2,,30.0,10.0,Forlorn Cloister,,2,33,False,,
+7.0,,10043,2,,60.0,10.0,Tol Dagor,,2,30,False,,
+7.0,,11397,2,50.0,50.0,50.0,Temple of the Jade Serpent,85.0,2,27,False,,
+7.0,,11384,2,,35.0,20.0,Mogu'shan Palace,,2,7,False,,
+6.0,45.0,8638,7,45.0,45.0,45.0,"Antorus, the Burning Throne",,2,1943,True,3.0,-2.0
+7.0,50.0,10076,7,50.0,50.0,50.0,Battle of Dazar'alor,,2,1815,True,3.0,-2.0
+6.0,45.0,8025,7,45.0,45.0,45.0,The Nighthold,110.0,2,1706,True,3.0,-2.0
+3.0,,5723,8,35.0,35.0,35.0,Firelands,,2,1595,True,3.0,-2.0
+7.0,50.0,9389,7,50.0,50.0,50.0,Uldir,,2,1525,True,3.0,-2.0
+6.0,45.0,8524,7,45.0,45.0,45.0,Tomb of Sargeras,,2,1425,True,3.0,-2.0
+7.0,50.0,10522,7,50.0,50.0,50.0,"Ny'alotha, the Waking City",,2,1354,True,3.0,-2.0
+9.0,70.0,14643,7,70.0,70.0,70.0,"Amirdrassil, the Dream's Hope",,2,1324,True,3.0,-2.0
+3.0,,5892,8,35.0,35.0,35.0,Dragon Soul,85.0,2,1194,True,3.0,-2.0
+4.0,35.0,6738,8,35.0,35.0,35.0,Siege of Orgrimmar,,2,1192,True,3.0,-2.0
+1.0,45.0,3457,3,30.0,30.0,30.0,Karazhan,68.0,2,1127,True,3.0,10.0
+8.0,60.0,13561,7,60.0,60.0,60.0,Sanctum of Domination,,2,1073,True,3.0,-2.0
+4.0,,6622,8,35.0,35.0,35.0,Throne of Thunder,90.0,2,1041,True,3.0,-2.0
+5.0,40.0,7545,7,40.0,40.0,40.0,Hellfire Citadel,100.0,2,1024,True,3.0,-2.0
+3.0,,5094,8,35.0,35.0,35.0,Blackwing Descent,85.0,2,1004,True,3.0,-2.0
+6.0,45.0,8026,7,45.0,45.0,45.0,The Emerald Nightmare,110.0,2,992,True,3.0,-2.0
+5.0,40.0,6967,7,40.0,40.0,40.0,Blackrock Foundry,100.0,2,988,True,3.0,-2.0
+9.0,70.0,14663,7,70.0,70.0,70.0,"Aberrus, the Shadowed Crucible",,2,978,True,3.0,-2.0
+9.0,70.0,14030,7,70.0,70.0,70.0,Vault of the Incarnates,,2,973,True,3.0,-2.0
+,,2717,3,30.0,30.0,30.0,Molten Core,50.0,2,952,True,3.0,40.0
+3.0,,5334,8,35.0,35.0,35.0,The Bastion of Twilight,85.0,2,945,True,3.0,-2.0
+,,2677,3,30.0,30.0,30.0,Blackwing Lair,,2,938,True,3.0,40.0
+2.0,,3456,7,30.0,30.0,30.0,Naxxramas,80.0,2,922,True,3.0,-2.0
+8.0,60.0,13742,7,60.0,60.0,60.0,Sepulcher of the First Ones,,2,845,True,3.0,-2.0
+7.0,50.0,10425,7,50.0,50.0,50.0,The Eternal Palace,,2,799,True,3.0,-2.0
+4.0,,6125,8,35.0,35.0,35.0,Mogu'shan Vaults,90.0,2,798,True,3.0,-2.0
+1.0,,3845,3,,30.0,30.0,The Eye,70.0,2,754,True,3.0,25.0
+10.0,,14980,7,80.0,80.0,80.0,Nerub-ar Palace,,2,744,True,3.0,-2.0
+1.0,,3959,3,,30.0,30.0,Black Temple,,2,687,True,3.0,25.0
+8.0,60.0,13224,7,60.0,60.0,60.0,Castle Nathria,,2,681,True,3.0,-2.0
+3.0,,5638,8,35.0,35.0,35.0,Throne of the Four Winds,85.0,2,674,True,3.0,-2.0
+4.0,,6067,8,35.0,35.0,35.0,Terrace of Endless Spring,90.0,2,658,True,3.0,-2.0
+4.0,,6297,8,35.0,35.0,35.0,Heart of Fear,,2,651,True,3.0,-2.0
+1.0,,4075,3,,30.0,30.0,Sunwell Plateau,,2,643,True,3.0,25.0
+6.0,45.0,8440,7,45.0,45.0,45.0,Trial of Valor,,2,637,True,3.0,-2.0
+,,3428,3,30.0,30.0,30.0,Temple of Ahn'Qiraj,50.0,2,585,True,3.0,40.0
+2.0,,2159,7,30.0,30.0,30.0,Onyxia's Lair,80.0,2,558,True,3.0,-2.0
+7.0,50.0,10057,7,50.0,50.0,50.0,Crucible of Storms,,2,551,True,3.0,-2.0
+1.0,,3607,3,,30.0,30.0,Serpentshrine Cavern,70.0,2,539,True,3.0,25.0
+3.0,,5600,7,35.0,35.0,35.0,Baradin Hold,,2,507,True,3.0,-2.0
+9.0,,14617,7,,70.0,70.0,The Seat of the Aspects,,2,426,True,-1.0,
+5.0,40.0,6996,7,40.0,40.0,40.0,Highmaul,100.0,2,379,True,3.0,-2.0
+2.0,,4812,8,30.0,30.0,30.0,Icecrown Citadel,80.0,2,377,True,3.0,-2.0
+1.0,,3606,3,,30.0,30.0,Hyjal Summit,70.0,2,355,True,3.0,25.0
+2.0,,4273,7,30.0,30.0,30.0,Ulduar,,2,346,True,3.0,-2.0
+1.0,,3923,3,,30.0,30.0,Gruul's Lair,70.0,2,316,True,3.0,25.0
+,,3429,3,30.0,30.0,30.0,Ruins of Ahn'Qiraj,,2,262,True,3.0,10.0
+6.0,,8348,3,,45.0,45.0,Shal'dorei Terrace,,2,245,True,3.0,
+1.0,,3836,3,,30.0,30.0,Magtheridon's Lair,70.0,2,239,True,3.0,25.0
+2.0,,4500,7,30.0,30.0,30.0,The Eye of Eternity,80.0,2,232,True,3.0,-2.0
+2.0,,4603,7,30.0,30.0,30.0,Vault of Archavon,,2,226,True,3.0,-2.0
+2.0,30.0,4722,8,30.0,30.0,30.0,Crusaders' Coliseum: Trial of the Crusader,80.0,2,214,True,3.0,-2.0
+2.0,,4493,7,30.0,30.0,30.0,The Obsidian Sanctum,80.0,2,198,True,3.0,-2.0
+6.0,,8005,3,,35.0,35.0,Terrace of Endless Spring,,2,179,True,3.0,
+7.0,,10448,3,,50.0,50.0,Darkest Depths,,2,136,True,3.0,
+2.0,,4987,8,30.0,30.0,30.0,The Ruby Sanctum,80.0,2,120,True,3.0,-2.0
+7.0,,10047,3,,35.0,35.0,Siege of Orgrimmar,,2,66,True,3.0,
+7.0,,10582,7,,30.0,30.0,Caverns of Time,,2,56,True,3.0,-2.0
+7.0,,11395,3,,35.0,35.0,Mogu'shan Vaults,,2,46,True,3.0,
