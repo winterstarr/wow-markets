@@ -17380,3 +17380,8 @@ id,name,quality,level,required_level,item_class_name,item_class_id,item_subclass
 1733,Worn Cloak,POOR,8,5,Armor,4,Cloth,1,CLOAK,775,155,True
 5791,Henrig Lonebrow's Journal,COMMON,11,11,Quest,12,Quest,0,NON_EQUIP,0,0,False
 62606,Fortune Card,RARE,17,0,Tradeskill,7,Other,11,NON_EQUIP,20000000,50000,False
+29009,Heavy Throwing Dagger,POOR,17,10,Weapon,2,Thrown,16,THROWN,200,50,True
+62245,Silver Inlaid Leaf,POOR,37,0,Miscellaneous,15,Junk,0,NON_EQUIP,366985,73397,False
+104225,Charred Recipe,POOR,35,0,Miscellaneous,15,Junk,0,NON_EQUIP,0,0,False
+45994,Lost Ring,RARE,35,29,Armor,4,Miscellaneous,0,FINGER,187469,46867,True
+70053,Bloodthirsty Fireweave Boots,RARE,37,32,Armor,4,Cloth,1,FEET,271882,54376,True
