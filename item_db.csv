@@ -17385,3 +17385,302 @@ id,name,quality,level,required_level,item_class_name,item_class_id,item_subclass
 104225,Charred Recipe,POOR,35,0,Miscellaneous,15,Junk,0,NON_EQUIP,0,0,False
 45994,Lost Ring,RARE,35,29,Armor,4,Miscellaneous,0,FINGER,187469,46867,True
 70053,Bloodthirsty Fireweave Boots,RARE,37,32,Armor,4,Cloth,1,FEET,271882,54376,True
+215117,Storyteller's Glasses,UNCOMMON,486,68,Profession,19,Inscription,12,PROFESSION_GEAR,5000,1000,True
+215119,Right-Handed Magnifying Glass,UNCOMMON,486,68,Profession,19,Inscription,12,PROFESSION_GEAR,15000,3000,True
+223120,Formula: Enchant Weapon - Authority of Radiant Power,RARE,1,1,Recipe,9,Enchanting,8,NON_EQUIP,2000000,1,False
+222473,Dredger's Developed Greatbelt,RARE,447,80,Armor,4,Plate,4,WAIST,253175,50635,True
+222472,Dredger's Plate Breastplate,RARE,447,71,Armor,4,Plate,4,CHEST,492616,98523,True
+223139,Formula: Enchant Cloak - Chant of Leeching Fangs,RARE,1,1,Recipe,9,Enchanting,8,NON_EQUIP,2000000,1,False
+215120,Radiant Loupes,UNCOMMON,486,68,Profession,19,Jewelcrafting,11,PROFESSION_GEAR,15000,3000,True
+217148,Algari Competitor's Plate Pauldrons,UNCOMMON,577,80,Armor,4,Plate,4,SHOULDER,375525,75105,True
+222474,Dredger's Developed Defender,RARE,447,80,Armor,4,Shield,6,SHIELD,249543,49908,True
+223133,Formula: Illusory Adornment: Crystal,RARE,1,1,Recipe,9,Enchanting,8,NON_EQUIP,2000000,1,False
+222475,Dredger's Developed Helm,RARE,447,80,Armor,4,Plate,4,HEAD,372840,74568,True
+223140,Formula: Enchant Cloak - Chant of Burrowing Rapidity,RARE,1,1,Recipe,9,Enchanting,8,NON_EQUIP,2000000,1,False
+217149,Algari Competitor's Plate Waistguard,UNCOMMON,577,80,Armor,4,Plate,4,WAIST,253175,50635,True
+222476,Dredger's Developed Legplates,RARE,447,80,Armor,4,Plate,4,LEGS,499838,99967,True
+223143,Formula: Enchant Ring - Cursed Versatility,RARE,1,1,Recipe,9,Enchanting,8,NON_EQUIP,2000000,1,False
+217150,Algari Competitor's Plate Armguards,UNCOMMON,577,80,Armor,4,Plate,4,WRIST,254089,50817,True
+222477,Dredger's Plate Vambraces,RARE,447,71,Armor,4,Plate,4,WRIST,254089,50817,True
+222478,Dredger's Developed Pauldrons,RARE,447,80,Armor,4,Plate,4,SHOULDER,375525,75105,True
+217145,Algari Competitor's Plate Gauntlets,UNCOMMON,577,80,Armor,4,Plate,4,HAND,249543,49908,True
+222479,Dredger's Developed Gauntlets,RARE,447,80,Armor,4,Plate,4,HAND,249543,49908,True
+217147,Algari Competitor's Plate Greaves,UNCOMMON,577,80,Armor,4,Plate,4,LEGS,499838,99967,True
+217144,Algari Competitor's Plate Sabatons,UNCOMMON,577,80,Armor,4,Plate,4,FEET,370119,74023,True
+222480,Proficient Sickle,UNCOMMON,486,1,Profession,19,Herbalism,3,PROFESSION_TOOL,2000000,400000,True
+217141,Algari Competitor's Chain Cuffs,UNCOMMON,577,80,Armor,4,Mail,3,WRIST,83483,16696,True
+222481,Proficient Pickaxe,UNCOMMON,486,1,Profession,19,Mining,5,PROFESSION_TOOL,2000000,400000,True
+217140,Algari Competitor's Chain Gauntlets,UNCOMMON,577,80,Armor,4,Mail,3,HAND,83163,16632,True
+222482,Proficient Skinning Knife,UNCOMMON,486,1,Profession,19,Skinning,10,PROFESSION_TOOL,2000000,400000,True
+217143,Algari Competitor's Plate Breastplate,UNCOMMON,577,80,Armor,4,Plate,4,CHEST,492616,98523,True
+222483,Proficient Needle Set,UNCOMMON,486,1,Profession,19,Tailoring,6,PROFESSION_GEAR,2000000,400000,True
+217136,Algari Competitor's Chain Cowl,UNCOMMON,577,80,Armor,4,Mail,3,HEAD,134793,26958,True
+222484,Proficient Leatherworker's Knife,UNCOMMON,486,1,Profession,19,Leatherworking,1,PROFESSION_TOOL,2000000,400000,True
+222485,Proficient Leatherworker's Toolset,UNCOMMON,486,1,Profession,19,Leatherworking,1,PROFESSION_GEAR,2000000,400000,True
+217138,Algari Competitor's Chain Girdle,UNCOMMON,577,80,Armor,4,Mail,3,WAIST,82532,16506,True
+217139,Algari Competitor's Chain Leggings,UNCOMMON,577,80,Armor,4,Mail,3,LEGS,164746,32949,True
+222486,Proficient Blacksmith's Hammer,UNCOMMON,486,1,Profession,19,Blacksmithing,0,PROFESSION_TOOL,2000000,400000,True
+222487,Proficient Blacksmith's Toolbox,UNCOMMON,486,1,Profession,19,Blacksmithing,0,PROFESSION_GEAR,2000000,400000,True
+224589,Deep-Dweller's Cincture,UNCOMMON,545,70,Armor,4,Cloth,1,WAIST,1713485,342697,True
+224590,Deep-Dweller's Cowl,UNCOMMON,545,70,Armor,4,Cloth,1,HEAD,2531891,506378,True
+224591,Deep-Dweller's Wraps,UNCOMMON,545,70,Armor,4,Cloth,1,WRIST,1719909,343981,True
+224592,Spinner's Hoop,UNCOMMON,545,70,Armor,4,Miscellaneous,0,FINGER,2175059,435011,True
+224593,Spinner's Circlet,UNCOMMON,545,70,Armor,4,Miscellaneous,0,FINGER,2182871,436574,True
+224594,Spinner's Amulet,UNCOMMON,545,70,Armor,4,Miscellaneous,0,NECK,1553571,310714,True
+224595,Deep-Dweller's Slippers,UNCOMMON,545,70,Armor,4,Cloth,1,FEET,2513025,502605,True
+224596,Deep-Dweller's Mitts,UNCOMMON,545,70,Armor,4,Cloth,1,HAND,1694389,338877,True
+224597,Deep-Dweller's Kaftan,UNCOMMON,545,70,Armor,4,Cloth,1,ROBE,3344321,668864,True
+224599,Deep-Dweller's Shoulderpads,UNCOMMON,545,70,Armor,4,Cloth,1,SHOULDER,2676098,535219,True
+217132,Algari Competitor's Leather Gloves,UNCOMMON,577,80,Armor,4,Leather,2,HAND,98851,19770,True
+224598,Deep-Dweller's Leggings,UNCOMMON,545,70,Armor,4,Cloth,1,LEGS,3395071,679014,True
+224600,Underscout's Striders,UNCOMMON,545,70,Armor,4,Leather,2,FEET,2569881,513976,True
+224601,Underscout's Gloves,UNCOMMON,545,70,Armor,4,Leather,2,HAND,1732756,346551,True
+224602,Underscout's Cap,UNCOMMON,545,70,Armor,4,Leather,2,HEAD,2657232,531446,True
+224603,Underscout's Trousers,UNCOMMON,545,70,Armor,4,Leather,2,LEGS,3562512,712502,True
+217130,Algari Competitor's Leather Belt,UNCOMMON,577,80,Armor,4,Leather,2,WAIST,95594,19118,True
+224604,Underscout's Cord,UNCOMMON,545,70,Armor,4,Leather,2,WAIST,1797858,359571,True
+224605,Underscout's Bracers,UNCOMMON,545,70,Armor,4,Leather,2,WRIST,1804281,360856,True
+217133,Algari Competitor's Leather Wristwraps,UNCOMMON,577,80,Armor,4,Leather,2,WRIST,99196,19839,True
+224606,Underscout's Jerkin,UNCOMMON,545,70,Armor,4,Leather,2,CHEST,3549393,709878,True
+217135,Algari Competitor's Chain Chainmail,UNCOMMON,577,80,Armor,4,Mail,3,CHEST,179431,35886,True
+224607,Underscout's Shoulderguards,UNCOMMON,545,70,Armor,4,Leather,2,SHOULDER,2666536,533307,True
+217134,Algari Competitor's Chain Treads,UNCOMMON,577,80,Armor,4,Mail,3,FEET,133853,26770,True
+224609,Expeditionary Boots,UNCOMMON,545,70,Armor,4,Mail,3,FEET,2704784,540956,True
+224608,Expeditionary Brigandine,UNCOMMON,545,70,Armor,4,Mail,3,CHEST,3600488,720097,True
+224610,Expeditionary Gauntlets,UNCOMMON,545,70,Armor,4,Mail,3,HAND,1649599,329919,True
+224611,Expeditionary Helm,UNCOMMON,545,70,Armor,4,Mail,3,HEAD,2465214,493042,True
+217131,Algari Competitor's Leather Trousers,UNCOMMON,577,80,Armor,4,Leather,2,LEGS,190808,38161,True
+222565,Inquisitor's Torch,RARE,447,80,Armor,4,Miscellaneous,0,HOLDABLE,1024444,204888,True
+224613,Expeditionary Epaulets,UNCOMMON,545,70,Armor,4,Mail,3,SHOULDER,2484080,496816,True
+224612,Expeditionary Shinguards,UNCOMMON,545,70,Armor,4,Mail,3,LEGS,3305654,661130,True
+224614,Expeditionary Belt,UNCOMMON,545,70,Armor,4,Mail,3,WAIST,1675119,335023,True
+224615,Expeditionary Bracers,UNCOMMON,545,70,Armor,4,Mail,3,WRIST,1681368,336273,True
+222569,Inquisitor's Crutch,RARE,447,68,Weapon,2,Staff,10,TWOHWEAPON,172421,34484,True
+222570,Inquisitor's Baton,RARE,447,68,Weapon,2,Staff,10,TWOHWEAPON,173089,34617,True
+224616,Earthforged Greathelm,UNCOMMON,545,70,Armor,4,Plate,4,HEAD,2512508,502501,True
+224617,Earthforged Haubergeon,UNCOMMON,545,70,Armor,4,Plate,4,CHEST,3369178,673835,True
+222573,Lightweight Scribe's Quill,UNCOMMON,486,1,Profession,19,Inscription,12,PROFESSION_TOOL,50000,10000,True
+224618,Earthforged Sabatons,UNCOMMON,545,70,Armor,4,Plate,4,FEET,2531632,506326,True
+222575,Hasty Alchemist's Mixing Rod,UNCOMMON,486,1,Profession,19,Alchemy,2,PROFESSION_TOOL,50000,10000,True
+224624,Spinner's Shawl,UNCOMMON,545,70,Armor,4,Cloth,1,CLOAK,2704009,540801,True
+222577,Burnt Rolling Pin,UNCOMMON,486,1,Profession,19,Cooking,4,PROFESSION_TOOL,50000,10000,True
+224625,Expeditionary Spear,UNCOMMON,545,70,Weapon,2,Polearm,6,TWOHWEAPON,6451633,1290326,True
+224626,Deep-Dweller's Staff,UNCOMMON,545,70,Weapon,2,Staff,10,TWOHWEAPON,5902335,1180467,True
+224628,Arathi Claymore,UNCOMMON,545,70,Weapon,2,Sword,8,TWOHWEAPON,6451633,1290326,True
+224627,Arathi Arquebus,UNCOMMON,545,70,Weapon,2,Gun,3,RANGEDRIGHT,5856714,1171342,True
+224621,Earthforged Shoulder Scales,UNCOMMON,545,70,Armor,4,Plate,4,SHOULDER,2628546,525709,True
+224622,Stalward Girdle,UNCOMMON,545,70,Armor,4,Plate,4,WAIST,1772164,354432,True
+224623,Earthforged Cuffs,UNCOMMON,545,70,Armor,4,Plate,4,WRIST,1778414,355682,True
+224630,Deep-Dweller's Battleaxe,UNCOMMON,545,70,Weapon,2,Axe,0,WEAPON,4757871,951574,True
+224629,Arathi Hatchet,UNCOMMON,545,70,Weapon,2,Axe,0,WEAPON,4740116,948023,True
+224631,Deep-Dweller's Cudgel,UNCOMMON,545,70,Weapon,2,Mace,4,WEAPON,4997565,999513,True
+224632,Underscout's Kukri,UNCOMMON,545,70,Weapon,2,Dagger,15,WEAPON,4740116,948023,True
+224634,Arathi Mace,UNCOMMON,545,70,Weapon,2,Mace,4,WEAPON,4997565,999513,True
+224635,Expeditionary Bulwark,UNCOMMON,545,70,Armor,4,Shield,6,SHIELD,3279880,655976,True
+224633,Arathi Greataxe,UNCOMMON,545,70,Weapon,2,Axe,1,TWOHWEAPON,6451633,1290326,True
+224636,Deep-Dweller's Dirk,UNCOMMON,545,70,Weapon,2,Dagger,15,WEAPON,4740116,948023,True
+224637,Deep-Dweller's Orb,UNCOMMON,545,70,Armor,4,Miscellaneous,0,HOLDABLE,3085836,617167,True
+224638,Underscout's Glaive,UNCOMMON,545,70,Weapon,2,Warglaives,9,WEAPON,5088313,1017662,True
+224639,Expeditionary Chopper,UNCOMMON,545,70,Weapon,2,Axe,0,WEAPON,4740116,948023,True
+222653,Darkmoon Deck: Symbiosis,EPIC,577,1,Armor,4,Miscellaneous,0,TRINKET,100000,20000,True
+222671,Darkmoon Deck: Vivacity,EPIC,577,1,Armor,4,Miscellaneous,0,TRINKET,100000,20000,True
+222680,Darkmoon Deck: Ascend,EPIC,577,1,Armor,4,Miscellaneous,0,TRINKET,100000,20000,True
+224763,Design: Cubic Blasphemia,RARE,1,1,Recipe,9,Jewelcrafting,10,NON_EQUIP,49870000,500000,False
+222832,Pioneer's Cloth Slippers,RARE,447,71,Armor,4,Cloth,1,FEET,180315,36063,True
+222834,Pioneer's Perfected Cord,RARE,447,80,Armor,4,Cloth,1,WAIST,118385,23677,True
+222835,Pioneer's Perfected Cloak,RARE,447,71,Armor,4,Cloth,1,CLOAK,179616,35923,True
+222836,Pioneer's Perfected Hood,RARE,447,80,Armor,4,Cloth,1,HEAD,182338,36467,True
+222833,Pioneer's Cloth Cuffs,RARE,447,71,Armor,4,Cloth,1,WRIST,122029,24405,True
+222837,Pioneer's Cloth Robe,RARE,447,71,Armor,4,Cloth,1,ROBE,250803,50160,True
+222838,Pioneer's Perfected Leggings,RARE,447,80,Armor,4,Cloth,1,LEGS,239061,47812,True
+222839,Pioneer's Perfected Mantle,RARE,447,80,Armor,4,Cloth,1,SHOULDER,179635,35927,True
+222840,Pioneer's Perfected Gloves,RARE,447,80,Armor,4,Cloth,1,HAND,122943,24588,True
+222841,Weavercloth Gardening Hat,UNCOMMON,486,70,Profession,19,Herbalism,3,PROFESSION_GEAR,100000,20000,True
+222842,Weavercloth Fishing Cap,UNCOMMON,486,70,Armor,4,Miscellaneous,0,HEAD,125000,25000,True
+222843,Weavercloth Enchanter's Hat,UNCOMMON,486,70,Profession,19,Enchanting,8,PROFESSION_GEAR,100000,20000,True
+222844,Weavercloth Tailor's Coat,UNCOMMON,486,70,Profession,19,Tailoring,6,PROFESSION_GEAR,100000,20000,True
+222846,Weavercloth Chef's Hat,UNCOMMON,486,70,Profession,19,Cooking,4,PROFESSION_GEAR,100000,20000,True
+224619,Earthforged Handguards,UNCOMMON,545,70,Armor,4,Plate,4,HAND,1706888,341377,True
+222853,Weavercloth Bag,UNCOMMON,60,70,Container,1,Bag,0,BAG,75000,15000,True
+222845,Weavercloth Alchemist's Robe,UNCOMMON,486,70,Profession,19,Alchemy,2,PROFESSION_GEAR,100000,20000,True
+222855,Weavercloth Reagent Bag,UNCOMMON,60,70,Container,1,Reagent Bag,11,BAG,75000,15000,True
+224620,Earthforged Faulds,UNCOMMON,545,70,Armor,4,Plate,4,LEGS,3498642,699728,True
+223043,Plans: Sanctified Steps,EPIC,1,1,Recipe,9,Blacksmithing,4,NON_EQUIP,200000,50000,False
+215131,Malleable Pendant,RARE,447,1,Armor,4,Miscellaneous,0,NECK,1375652,275130,True
+223051,Plans: Artisan Skinning Knife,RARE,1,1,Recipe,9,Blacksmithing,4,NON_EQUIP,200000,50000,False
+215130,Malleable Band,RARE,447,1,Armor,4,Miscellaneous,0,FINGER,2009825,401965,True
+223060,Technique: Patient Alchemist's Mixing Rod,COMMON,1,1,Recipe,9,Inscription,11,NON_EQUIP,200000,50000,False
+223061,Technique: Inscribed Rolling Pin,RARE,1,1,Recipe,9,Inscription,11,NON_EQUIP,200000,50000,False
+225367,Algari Competitor's Dagger,UNCOMMON,577,80,Weapon,2,Dagger,15,WEAPON,4277090,855418,True
+215121,Incanter's Shard,UNCOMMON,486,68,Profession,19,Enchanting,8,PROFESSION_GEAR,20000,4000,True
+223086,Design: Insightful Blasphemite,RARE,1,1,Recipe,9,Jewelcrafting,10,NON_EQUIP,2000000,500000,False
+225371,Algari Competitor's Scepter,UNCOMMON,577,80,Weapon,2,Mace,4,WEAPON,4340940,868188,True
+223087,Design: Culminating Blasphemite,RARE,1,1,Recipe,9,Jewelcrafting,10,NON_EQUIP,2000000,500000,False
+225373,Algari Competitor's Shield,UNCOMMON,577,80,Armor,4,Shield,6,SHIELD,2872437,574487,True
+223088,Design: Elusive Blasphemite,RARE,1,1,Recipe,9,Jewelcrafting,10,NON_EQUIP,2000000,1,False
+225374,Algari Competitor's Axe,UNCOMMON,577,80,Weapon,2,Axe,0,WEAPON,4503823,900764,True
+225375,Algari Competitor's Sickle,UNCOMMON,577,80,Weapon,2,Dagger,15,WEAPON,4519893,903978,True
+223093,Design: Beautification Iris,RARE,1,1,Recipe,9,Jewelcrafting,10,NON_EQUIP,2000000,500000,False
+28535,Amani Throwing Axe,POOR,30,25,Weapon,2,Thrown,16,THROWN,121136,30284,True
+215137,Algari Competitor's Signet,UNCOMMON,577,80,Armor,4,Miscellaneous,0,FINGER,1922244,384448,True
+225377,Algari Competitor's Sword,UNCOMMON,577,80,Weapon,2,Sword,7,WEAPON,4552036,910407,True
+223096,Pattern: Roiling Thunderstrike Talons,EPIC,1,1,Recipe,9,Leatherworking,1,NON_EQUIP,2000000,500000,False
+223098,Pattern: Waders of the Unifying Flame,EPIC,1,1,Recipe,9,Leatherworking,1,NON_EQUIP,2000000,500000,False
+215144,Algari Competitor's Amulet,UNCOMMON,577,80,Armor,4,Miscellaneous,0,NECK,1344109,268821,True
+223100,Pattern: Vambraces of Deepening Darkness,EPIC,1,1,Recipe,9,Leatherworking,1,NON_EQUIP,2000000,500000,False
+215147,Beautification Iris,RARE,1,1,Miscellaneous,15,Other,4,NON_EQUIP,1000000,200000,False
+225432,Design: Algari Competitor's Signet,RARE,1,1,Recipe,9,Jewelcrafting,10,NON_EQUIP,200000,50000,False
+223101,Pattern: Reinforced Setae Flyers,EPIC,1,1,Recipe,9,Leatherworking,1,NON_EQUIP,2000000,500000,False
+227208,Bismuth Rod,COMMON,512,68,Profession,19,Enchanting,8,PROFESSION_TOOL,300000,10000,True
+225433,Design: Algari Competitor's Amulet,RARE,1,1,Recipe,9,Jewelcrafting,10,NON_EQUIP,200000,50000,False
+223115,Formula: Enchant Ring - Radiant Critical Strike,RARE,1,1,Recipe,9,Enchanting,8,NON_EQUIP,2000000,1,False
+225434,Pattern: Algari Competitor's Cloth Leggings,RARE,1,1,Recipe,9,Tailoring,2,NON_EQUIP,200000,50000,False
+223116,Formula: Enchant Ring - Radiant Haste,RARE,1,1,Recipe,9,Enchanting,8,NON_EQUIP,2000000,1,False
+225435,Pattern: Algari Competitor's Cloth Shoulderpads,RARE,1,1,Recipe,9,Tailoring,2,NON_EQUIP,200000,50000,False
+217123,Algari Competitor's Cloth Tunic,UNCOMMON,577,80,Armor,4,Cloth,1,ROBE,250803,50160,True
+223117,Formula: Enchant Ring - Radiant Mastery,RARE,1,1,Recipe,9,Enchanting,8,NON_EQUIP,2000000,1,False
+225436,Pattern: Algari Competitor's Cloth Treads,RARE,1,1,Recipe,9,Tailoring,2,NON_EQUIP,200000,50000,False
+223118,Formula: Enchant Ring - Radiant Versatility,RARE,1,1,Recipe,9,Enchanting,8,NON_EQUIP,2000000,1,False
+225437,Pattern: Algari Competitor's Cloth Bands,RARE,1,1,Recipe,9,Tailoring,2,NON_EQUIP,200000,50000,False
+225438,Pattern: Algari Competitor's Cloth Hood,RARE,1,1,Recipe,9,Tailoring,2,NON_EQUIP,200000,50000,False
+225439,Pattern: Algari Competitor's Cloth Gloves,RARE,1,1,Recipe,9,Tailoring,2,NON_EQUIP,200000,50000,False
+225440,Pattern: Algari Competitor's Cloth Tunic,RARE,1,1,Recipe,9,Tailoring,2,NON_EQUIP,200000,50000,False
+225442,Pattern: Algari Competitor's Cloth Cloak,RARE,1,1,Recipe,9,Tailoring,2,NON_EQUIP,200000,50000,False
+225441,Pattern: Algari Competitor's Cloth Sash,RARE,1,1,Recipe,9,Tailoring,2,NON_EQUIP,200000,50000,False
+225443,Pattern: Algari Competitor's Leather Boots,RARE,1,1,Recipe,9,Leatherworking,1,NON_EQUIP,200000,50000,False
+225444,Pattern: Algari Competitor's Leather Chestpiece,RARE,1,1,Recipe,9,Leatherworking,1,NON_EQUIP,200000,50000,False
+225445,Pattern: Algari Competitor's Leather Mask,RARE,1,1,Recipe,9,Leatherworking,1,NON_EQUIP,200000,50000,False
+225446,Pattern: Algari Competitor's Leather Shoulderpads,RARE,1,1,Recipe,9,Leatherworking,1,NON_EQUIP,200000,50000,False
+225448,Pattern: Algari Competitor's Leather Trousers,RARE,1,1,Recipe,9,Leatherworking,1,NON_EQUIP,200000,50000,False
+225447,Pattern: Algari Competitor's Leather Belt,RARE,1,1,Recipe,9,Leatherworking,1,NON_EQUIP,200000,50000,False
+225449,Pattern: Algari Competitor's Leather Gloves,RARE,1,1,Recipe,9,Leatherworking,1,NON_EQUIP,200000,50000,False
+217125,Algari Competitor's Cloth Cloak,UNCOMMON,577,80,Armor,4,Cloth,1,CLOAK,179616,35923,True
+225450,Pattern: Algari Competitor's Leather Wristwraps,RARE,1,1,Recipe,9,Leatherworking,1,NON_EQUIP,200000,50000,False
+225451,Pattern: Algari Competitor's Chain Treads,RARE,1,1,Recipe,9,Leatherworking,1,NON_EQUIP,200000,50000,False
+225452,Pattern: Algari Competitor's Chain Chainmail,RARE,1,1,Recipe,9,Leatherworking,1,NON_EQUIP,200000,50000,False
+225453,Pattern: Algari Competitor's Chain Cowl,RARE,1,1,Recipe,9,Leatherworking,1,NON_EQUIP,200000,50000,False
+225454,Pattern: Algari Competitor's Chain Epaulets,RARE,1,1,Recipe,9,Leatherworking,1,NON_EQUIP,200000,50000,False
+225455,Pattern: Algari Competitor's Chain Girdle,RARE,1,1,Recipe,9,Leatherworking,1,NON_EQUIP,200000,50000,False
+225456,Pattern: Algari Competitor's Chain Leggings,RARE,1,1,Recipe,9,Leatherworking,1,NON_EQUIP,200000,50000,False
+225457,Pattern: Algari Competitor's Chain Gauntlets,RARE,1,1,Recipe,9,Leatherworking,1,NON_EQUIP,200000,50000,False
+225458,Pattern: Algari Competitor's Chain Cuffs,RARE,1,1,Recipe,9,Leatherworking,1,NON_EQUIP,200000,50000,False
+225459,Plans: Algari Competitor's Plate Breastplate,RARE,1,1,Recipe,9,Blacksmithing,4,NON_EQUIP,200000,50000,False
+225460,Plans: Algari Competitor's Plate Sabatons,RARE,1,1,Recipe,9,Blacksmithing,4,NON_EQUIP,200000,50000,False
+225462,Plans: Algari Competitor's Plate Helm,RARE,1,1,Recipe,9,Blacksmithing,4,NON_EQUIP,200000,50000,False
+225461,Plans: Algari Competitor's Plate Gauntlets,RARE,1,1,Recipe,9,Blacksmithing,4,NON_EQUIP,200000,50000,False
+225463,Plans: Algari Competitor's Plate Greaves,RARE,1,1,Recipe,9,Blacksmithing,4,NON_EQUIP,200000,50000,False
+225466,Plans: Algari Competitor's Plate Armguards,RARE,1,1,Recipe,9,Blacksmithing,4,NON_EQUIP,200000,50000,False
+225465,Plans: Algari Competitor's Plate Waistguard,RARE,1,1,Recipe,9,Blacksmithing,4,NON_EQUIP,200000,50000,False
+225467,Schematic: Algari Competitor's Cloth Goggles,RARE,1,1,Recipe,9,Engineering,3,NON_EQUIP,200000,50000,False
+225464,Plans: Algari Competitor's Plate Pauldrons,RARE,1,1,Recipe,9,Blacksmithing,4,NON_EQUIP,200000,50000,False
+225468,Schematic: Algari Competitor's Leather Goggles,RARE,1,1,Recipe,9,Engineering,3,NON_EQUIP,200000,50000,False
+225469,Schematic: Algari Competitor's Mail Goggles,RARE,1,1,Recipe,9,Engineering,3,NON_EQUIP,200000,50000,False
+225470,Schematic: Algari Competitor's Plate Goggles,RARE,1,1,Recipe,9,Engineering,3,NON_EQUIP,200000,50000,False
+225472,Schematic: Algari Competitor's Leather Bracers,RARE,1,1,Recipe,9,Engineering,3,NON_EQUIP,200000,50000,False
+225471,Schematic: Algari Competitor's Cloth Bracers,RARE,1,1,Recipe,9,Engineering,3,NON_EQUIP,200000,50000,False
+217124,Algari Competitor's Cloth Sash,UNCOMMON,577,80,Armor,4,Cloth,1,WAIST,118385,23677,True
+225473,Schematic: Algari Competitor's Mail Bracers,RARE,1,1,Recipe,9,Engineering,3,NON_EQUIP,200000,50000,False
+225474,Schematic: Algari Competitor's Plate Bracers,RARE,1,1,Recipe,9,Engineering,3,NON_EQUIP,200000,50000,False
+225476,Technique: Algari Competitor's Insignia of Alacrity,RARE,1,1,Recipe,9,Inscription,11,NON_EQUIP,200000,50000,False
+225475,Technique: Algari Competitor's Medallion,RARE,1,1,Recipe,9,Inscription,11,NON_EQUIP,200000,50000,False
+225477,Technique: Algari Competitor's Emblem,RARE,1,1,Recipe,9,Inscription,11,NON_EQUIP,200000,50000,False
+225478,Plans: Algari Competitor's Splitter,RARE,1,1,Recipe,9,Blacksmithing,4,NON_EQUIP,200000,50000,False
+225479,Plans: Algari Competitor's Dagger,RARE,1,1,Recipe,9,Blacksmithing,4,NON_EQUIP,200000,50000,False
+225480,Technique: Algari Competitor's Scythe,RARE,1,1,Recipe,9,Inscription,11,NON_EQUIP,200000,50000,False
+225481,Technique: Algari Competitor's Staff,RARE,1,1,Recipe,9,Inscription,11,NON_EQUIP,200000,50000,False
+225482,Schematic: Algari Competitor's Rifle,RARE,1,1,Recipe,9,Engineering,3,NON_EQUIP,200000,50000,False
+225483,Plans: Algari Competitor's Scepter,RARE,1,1,Recipe,9,Blacksmithing,4,NON_EQUIP,200000,50000,False
+225484,Technique: Algari Competitor's Censer,RARE,1,1,Recipe,9,Inscription,11,NON_EQUIP,200000,50000,False
+217127,Algari Competitor's Leather Chestpiece,UNCOMMON,577,80,Armor,4,Leather,2,CHEST,188000,37600,True
+225485,Plans: Algari Competitor's Shield,RARE,1,1,Recipe,9,Blacksmithing,4,NON_EQUIP,200000,50000,False
+225486,Plans: Algari Competitor's Axe,RARE,1,1,Recipe,9,Blacksmithing,4,NON_EQUIP,200000,50000,False
+225487,Plans: Algari Competitor's Sickle,RARE,1,1,Recipe,9,Blacksmithing,4,NON_EQUIP,200000,50000,False
+225488,Plans: Algari Competitor's Greatsword,RARE,1,1,Recipe,9,Blacksmithing,4,NON_EQUIP,200000,50000,False
+225489,Plans: Algari Competitor's Sword,RARE,1,1,Recipe,9,Blacksmithing,4,NON_EQUIP,200000,50000,False
+223487,Writhing Transmutagen,RARE,1,1,Miscellaneous,15,Companion Pets,2,NON_EQUIP,50000,10000,False
+217117,Algari Competitor's Cloth Leggings,UNCOMMON,577,80,Armor,4,Cloth,1,LEGS,239061,47812,True
+219403,Stonebound Lantern,RARE,1,1,Miscellaneous,15,Other,4,NON_EQUIP,0,0,False
+221504,Elemental Pearl,POOR,1,1,Miscellaneous,15,Junk,0,NON_EQUIP,0,0,False
+219470,Spelunker's Leather Footpads,RARE,447,71,Armor,4,Leather,2,FEET,131817,26363,True
+219471,Spelunker's Leather Bands,RARE,447,71,Armor,4,Leather,2,WRIST,82901,16580,True
+219472,Spelunker's Leather Jerkin,RARE,447,71,Armor,4,Leather,2,CHEST,166114,33222,True
+219473,Tracker's Chitin Galoshes,RARE,447,71,Armor,4,Mail,3,FEET,83516,16703,True
+217118,Algari Competitor's Cloth Shoulderpads,UNCOMMON,577,80,Armor,4,Cloth,1,SHOULDER,179635,35927,True
+219474,Tracker's Chitin Cuffs,RARE,447,71,Armor,4,Mail,3,WRIST,56312,11262,True
+219475,Tracker's Chitin Hauberk,RARE,447,71,Armor,4,Mail,3,CHEST,112402,22480,True
+219476,Spelunker's Practiced Hat,RARE,447,80,Armor,4,Leather,2,HEAD,134484,26896,True
+219478,Spelunker's Practiced Mitts,RARE,447,80,Armor,4,Leather,2,HAND,82316,16463,True
+219477,Spelunker's Practiced Shoulders,RARE,447,80,Armor,4,Leather,2,SHOULDER,134960,26992,True
+219479,Spelunker's Practiced Britches,RARE,447,80,Armor,4,Leather,2,LEGS,164334,32866,True
+219481,Tracker's Toughened Headgear,RARE,447,80,Armor,4,Mail,3,HEAD,82636,16527,True
+219480,Spelunker's Practiced Sash,RARE,447,80,Armor,4,Leather,2,WAIST,82956,16591,True
+217128,Algari Competitor's Leather Mask,UNCOMMON,577,80,Armor,4,Leather,2,HEAD,141260,28252,True
+219482,Tracker's Toughened Shoulderguards,RARE,447,80,Armor,4,Mail,3,SHOULDER,82954,16590,True
+219483,Tracker's Toughened Handguards,RARE,447,80,Armor,4,Mail,3,HAND,55938,11187,True
+219484,Tracker's Toughened Links,RARE,447,80,Armor,4,Mail,3,LEGS,111665,22333,True
+219485,Tracker's Toughened Girdle,RARE,447,80,Armor,4,Mail,3,WAIST,56359,11271,True
+225638,Spelunker's Waning Candle,UNCOMMON,400,70,Armor,4,Miscellaneous,0,TRINKET,2967925,593585,True
+225642,Acolyte's Goggles,RARE,447,58,Armor,4,Cloth,1,HEAD,25000,5000,True
+225643,Spelunker's Goggles,RARE,447,58,Armor,4,Leather,2,HEAD,25000,5000,True
+225644,Tracker's Goggles,RARE,447,58,Armor,4,Mail,3,HEAD,25000,5000,True
+225645,Dredger's Goggles,RARE,447,58,Armor,4,Plate,4,HEAD,25000,5000,True
+225646,4UT0-41M3R,RARE,447,70,Weapon,2,Gun,3,RANGEDRIGHT,100000,20000,True
+227692,Arathi Sword,UNCOMMON,545,70,Weapon,2,Sword,7,WEAPON,3937071,787414,True
+227693,Expeditionary Blade,UNCOMMON,545,70,Weapon,2,Sword,7,WEAPON,4053995,810799,True
+76155,Thorns of the Dying Day,POOR,37,32,Weapon,2,Thrown,16,THROWN,516683,129171,True
+225753,Dornogal Guard's Splitter,RARE,1,1,Weapon,2,Axe,0,WEAPON,116,23,True
+225754,Dornogal Guard's Hammer,RARE,1,1,Weapon,2,Mace,4,WEAPON,117,23,True
+225755,Coreway Sledgehammer,RARE,1,1,Weapon,2,Mace,5,TWOHWEAPON,146,29,True
+225752,Dornogal Defender,RARE,1,1,Armor,4,Shield,6,SHIELD,74,14,True
+225756,Coreway Shovel,RARE,1,1,Weapon,2,Mace,5,TWOHWEAPON,147,29,True
+225758,Hallowfall Harvester's Pitchfork,RARE,1,1,Weapon,2,Staff,10,TWOHWEAPON,138,27,True
+225757,Coreway Pickaxe,RARE,1,1,Weapon,2,Axe,0,WEAPON,107,21,True
+225759,Coreway Engineer's Forceps,RARE,1,1,Armor,4,Miscellaneous,0,HOLDABLE,66,13,True
+225760,Dornogal Spear,RARE,1,1,Weapon,2,Polearm,6,TWOHWEAPON,139,27,True
+225761,Jeweler's Careful Crusher,RARE,1,1,Weapon,2,Mace,4,WEAPON,111,22,True
+225762,Coreway Engineer's Screwdriver,RARE,1,1,Weapon,2,Mace,4,WEAPON,112,22,True
+221786,Spring-Loaded Bismuth Fabric Cutters,UNCOMMON,486,61,Profession,19,Tailoring,6,PROFESSION_TOOL,50000,10000,True
+219672,Darkmoon Deck: Radiance,EPIC,577,70,Tradeskill,7,Inscription,16,TRINKET,50000,10000,True
+221788,Bismuth Brainwave Projector,UNCOMMON,486,1,Profession,19,Engineering,7,PROFESSION_GEAR,50000,10000,True
+225884,Extra Large Leek,RARE,1,1,Weapon,2,Mace,4,WEAPON,11,2,True
+221790,Bismuth Fisherfriend,UNCOMMON,486,1,Profession,19,Fishing,9,PROFESSION_TOOL,50000,10000,True
+221792,Lapidary's Bismuth Clamps,UNCOMMON,486,1,Profession,19,Jewelcrafting,11,PROFESSION_TOOL,50000,10000,True
+221795,Bismuth Miner's Headgear,UNCOMMON,486,1,Profession,19,Mining,5,PROFESSION_GEAR,50000,10000,True
+223843,Personally Crafted Mug,POOR,1,1,Miscellaneous,15,Junk,0,NON_EQUIP,100000,20000,False
+221799,Miner's Bismuth Hoard,UNCOMMON,486,1,Profession,19,Mining,5,PROFESSION_GEAR,50000,10000,True
+221797,Bismuth Fueled Samophlange,UNCOMMON,486,1,Profession,19,Engineering,7,PROFESSION_TOOL,50000,10000,True
+21142,From the Desk of Lord Victor Nefarius,COMMON,1,0,Miscellaneous,15,Junk,0,NON_EQUIP,0,0,False
+217126,Algari Competitor's Leather Boots,UNCOMMON,577,80,Armor,4,Leather,2,FEET,140202,28040,True
+219861,Gardener's Basket,UNCOMMON,486,58,Profession,19,Herbalism,3,PROFESSION_GEAR,100000,20000,True
+219863,Hideseeker's Hat,UNCOMMON,486,58,Profession,19,Skinning,10,PROFESSION_GEAR,100000,20000,True
+219862,Hideseeker's Pack,UNCOMMON,486,58,Profession,19,Skinning,10,PROFESSION_GEAR,100000,20000,True
+219864,Scrapsmith's Gloves,UNCOMMON,486,58,Profession,19,Engineering,7,PROFESSION_GEAR,100000,20000,True
+219865,Hideshaper's Cover,UNCOMMON,486,58,Profession,19,Leatherworking,1,PROFESSION_GEAR,100000,20000,True
+217119,Algari Competitor's Cloth Treads,UNCOMMON,577,80,Armor,4,Cloth,1,FEET,180315,36063,True
+219873,Steelsmith's Apron,UNCOMMON,486,58,Profession,19,Blacksmithing,0,PROFESSION_GEAR,100000,20000,True
+219866,Apothecary's Cap,UNCOMMON,486,58,Profession,19,Alchemy,2,PROFESSION_GEAR,100000,20000,True
+219875,Gemcutter's Apron,UNCOMMON,486,58,Profession,19,Jewelcrafting,11,PROFESSION_GEAR,100000,20000,True
+221962,Defective Escape Pod,RARE,80,1,Miscellaneous,15,Other,4,NON_EQUIP,1,1,False
+221966,Wormhole Generator: Khaz Algar,RARE,80,68,Miscellaneous,15,Other,4,NON_EQUIP,1,1,False
+221964,Filmless Camera,RARE,80,1,Miscellaneous,15,Other,4,NON_EQUIP,1,1,False
+221967,Crowd Pummeler 2-30,EPIC,80,1,Miscellaneous,15,Mount,5,NON_EQUIP,1,1,False
+224017,Recipe: Vicious Flask of Honor,RARE,1,1,Recipe,9,Alchemy,6,NON_EQUIP,2000000,500000,False
+224018,Recipe: Vicious Classical Spirits,RARE,1,1,Recipe,9,Alchemy,6,NON_EQUIP,2000000,500000,False
+224020,Recipe: Vicious Flask of the Wrecking Ball,RARE,1,1,Recipe,9,Alchemy,6,NON_EQUIP,2000000,500000,False
+224114,Runed Bismuth Rod,UNCOMMON,317,61,Profession,19,Enchanting,8,PROFESSION_TOOL,300000,60000,True
+217120,Algari Competitor's Cloth Bands,UNCOMMON,577,80,Armor,4,Cloth,1,WRIST,122029,24405,True
+228424,Recipe: Cinder Nectar,RARE,70,1,Recipe,9,Cooking,5,NON_EQUIP,1200000,50000,False
+228431,Rock Buddy,POOR,1,1,Miscellaneous,15,Other,4,NON_EQUIP,25,1,False
+224373,Waterlord's Iridescent Gem,POOR,70,1,Miscellaneous,15,Junk,0,NON_EQUIP,6849948,3426924,False
+224404,Enchanted Spearwood Wand,RARE,447,72,Weapon,2,Wand,19,RANGEDRIGHT,346527,69305,True
+222464,Ironclaw Stiletto,RARE,447,80,Weapon,2,Dagger,15,WEAPON,2498699,499739,True
+224434,Pattern: Dawnthread Lining,EPIC,1,1,Recipe,9,Tailoring,2,NON_EQUIP,200000,50000,False
+222466,Ironclaw Sword,RARE,447,80,Weapon,2,Sword,7,WEAPON,2516877,503375,True
+222465,Ironclaw Dirk,RARE,447,80,Weapon,2,Dagger,15,WEAPON,2507788,501557,True
+217122,Algari Competitor's Cloth Gloves,UNCOMMON,577,80,Armor,4,Cloth,1,HAND,122943,24588,True
+222468,Ironclaw Great Mace,RARE,447,80,Weapon,2,Mace,5,TWOHWEAPON,3168511,633702,True
+222467,Ironclaw Knuckles,RARE,447,80,Weapon,2,Fist Weapon,13,WEAPON,2525720,505144,True
+217121,Algari Competitor's Cloth Hood,UNCOMMON,577,80,Armor,4,Cloth,1,HEAD,182338,36467,True
+222469,Ironclaw Axe,RARE,447,80,Weapon,2,Axe,0,WEAPON,2543898,508779,True
+222470,Ironclaw Great Axe,RARE,447,80,Weapon,2,Axe,1,TWOHWEAPON,249543,49908,True
+222471,Dredger's Plate Sabatons,RARE,447,71,Armor,4,Plate,4,FEET,370119,74023,True
