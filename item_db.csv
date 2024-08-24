@@ -17684,3 +17684,45 @@ id,name,quality,level,required_level,item_class_name,item_class_id,item_subclass
 222469,Ironclaw Axe,RARE,447,80,Weapon,2,Axe,0,WEAPON,2543898,508779,True
 222470,Ironclaw Great Axe,RARE,447,80,Weapon,2,Axe,1,TWOHWEAPON,249543,49908,True
 222471,Dredger's Plate Sabatons,RARE,447,71,Armor,4,Plate,4,FEET,370119,74023,True
+225376,Algari Competitor's Greatsword,UNCOMMON,577,80,Weapon,2,Sword,8,TWOHWEAPON,5669956,1133991,True
+30654,Dertrok's Fourth Wand,COMMON,1,0,Quest,12,Quest,0,NON_EQUIP,0,0,False
+31875,Design: Rigid Star of Elune,RARE,27,0,Recipe,9,Jewelcrafting,10,NON_EQUIP,120000,30000,False
+225370,Algari Competitor's Rifle,UNCOMMON,577,80,Weapon,2,Gun,3,RANGEDRIGHT,5406629,1081325,True
+222854,Dawnweave Reagent Bag,RARE,60,70,Container,1,Reagent Bag,11,BAG,50000,10000,True
+223119,Formula: Enchant Weapon - Authority of Air,RARE,1,1,Recipe,9,Enchanting,8,NON_EQUIP,2000000,1,False
+23153,Design: Sparkling Azure Moonstone,UNCOMMON,1,0,Recipe,9,Jewelcrafting,10,NON_EQUIP,50000,12500,False
+224424,Pattern: Artisan Chef's Hat,RARE,70,1,Recipe,9,Tailoring,2,NON_EQUIP,200000,50000,False
+217129,Algari Competitor's Leather Shoulderpads,UNCOMMON,577,80,Armor,4,Leather,2,SHOULDER,141775,28355,True
+23141,Design: Jagged Deep Peridot,COMMON,1,0,Recipe,9,Jewelcrafting,10,NON_EQUIP,50000,12500,False
+217154,Algari Competitor's Plate Goggles,UNCOMMON,577,80,Armor,4,Plate,4,HEAD,141260,28252,True
+227695,Preserved Pierced Helm,RARE,1,68,Armor,4,Mail,3,HEAD,0,0,True
+227694,Preserved Begrimed Greathelm,RARE,1,68,Armor,4,Plate,4,HEAD,0,0,True
+217157,Algari Competitor's Mail Bracers,UNCOMMON,577,80,Armor,4,Mail,3,WRIST,141260,28252,True
+223142,Formula: Enchant Ring - Cursed Mastery,RARE,1,1,Recipe,9,Enchanting,8,NON_EQUIP,2000000,1,False
+29008,Sharp Throwing Axe,POOR,9,5,Weapon,2,Thrown,16,THROWN,75,18,True
+225369,Algari Competitor's Staff,UNCOMMON,577,80,Weapon,2,Staff,10,TWOHWEAPON,5386540,1077308,True
+223141,Formula: Enchant Ring - Cursed Critical Strike,RARE,1,1,Recipe,9,Enchanting,8,NON_EQUIP,2000000,1,False
+7758,Ruthless Shiv,RARE,22,14,Weapon,2,Polearm,6,TWOHWEAPON,605849,121169,True
+217897,Volatile Pheromone,UNCOMMON,1,0,Miscellaneous,15,Junk,0,NON_EQUIP,0,0,False
+13904,25 Pound Salmon,COMMON,28,0,Miscellaneous,15,Junk,0,HOLDABLE,55572,13893,True
+223102,Pattern: Busy Bee's Buckle,EPIC,1,1,Recipe,9,Leatherworking,1,NON_EQUIP,2000000,500000,False
+217158,Algari Competitor's Plate Bracers,UNCOMMON,577,80,Armor,4,Plate,4,WRIST,141260,28252,True
+225368,Algari Competitor's Scythe,UNCOMMON,577,80,Weapon,2,Polearm,6,TWOHWEAPON,5366451,1073290,True
+225366,Algari Competitor's Splitter,UNCOMMON,577,80,Weapon,2,Axe,0,WEAPON,4261453,852290,True
+217146,Algari Competitor's Plate Helm,UNCOMMON,577,80,Armor,4,Plate,4,HEAD,372840,74568,True
+55072,Bloodied Pyrium Gauntlets,RARE,37,32,Armor,4,Plate,4,HAND,173506,34701,True
+20696,Crystal Spiked Maul,RARE,29,24,Weapon,2,Mace,5,TWOHWEAPON,392196,78439,True
+217155,Algari Competitor's Cloth Bracers,UNCOMMON,577,80,Armor,4,Cloth,1,WRIST,141260,28252,True
+226643,Plans: Beledar's Bulwark,EPIC,70,1,Recipe,9,Blacksmithing,4,NON_EQUIP,200000,50000,False
+217156,Algari Competitor's Leather Bracers,UNCOMMON,577,80,Armor,4,Leather,2,WRIST,141260,28252,True
+219932,Algari Competitor's Insignia of Alacrity,UNCOMMON,577,70,Armor,4,Miscellaneous,0,TRINKET,82532,16506,True
+224816,Nerubian Almanac,POOR,1,1,Miscellaneous,15,Junk,0,NON_EQUIP,4492244,2281622,False
+222856,Duskweave Bag,RARE,70,70,Container,1,Bag,0,BAG,100000,20000,True
+219931,Algari Competitor's Medallion,UNCOMMON,577,70,Armor,4,Miscellaneous,0,TRINKET,82532,16506,True
+225372,Algari Competitor's Censer,UNCOMMON,577,80,Armor,4,Miscellaneous,0,HOLDABLE,2683267,536653,True
+217153,Algari Competitor's Mail Goggles,UNCOMMON,577,80,Armor,4,Mail,3,HEAD,141260,28252,True
+217151,Algari Competitor's Cloth Goggles,UNCOMMON,577,80,Armor,4,Cloth,1,HEAD,141260,28252,True
+217137,Algari Competitor's Chain Epaulets,UNCOMMON,577,80,Armor,4,Mail,3,SHOULDER,122385,24477,True
+219933,Algari Competitor's Emblem,UNCOMMON,577,70,Armor,4,Miscellaneous,0,TRINKET,82532,16506,True
+217152,Algari Competitor's Leather Goggles,UNCOMMON,577,80,Armor,4,Leather,2,HEAD,141260,28252,True
+217040,Kobold Earwax,POOR,1,1,Miscellaneous,15,Other,4,NON_EQUIP,4,2,False
