@@ -17726,3 +17726,10 @@ id,name,quality,level,required_level,item_class_name,item_class_id,item_subclass
 219933,Algari Competitor's Emblem,UNCOMMON,577,70,Armor,4,Miscellaneous,0,TRINKET,82532,16506,True
 217152,Algari Competitor's Leather Goggles,UNCOMMON,577,80,Armor,4,Leather,2,HEAD,141260,28252,True
 217040,Kobold Earwax,POOR,1,1,Miscellaneous,15,Other,4,NON_EQUIP,4,2,False
+228422,Recipe: Ghoulfish Delight,RARE,70,1,Recipe,9,Cooking,5,NON_EQUIP,200000,50000,False
+228423,Recipe: Pep-In-Your-Step,RARE,70,1,Recipe,9,Cooking,5,NON_EQUIP,200000,50000,False
+228071,Companion Experience,UNCOMMON,1,1,Consumable,0,Other,8,NON_EQUIP,0,0,False
+228073,Companion Experience,EPIC,1,1,Consumable,0,Other,8,NON_EQUIP,0,0,False
+228072,Companion Experience,RARE,1,1,Consumable,0,Other,8,NON_EQUIP,0,0,False
+227696,Preserved Distressed Visor,RARE,1,68,Armor,4,Leather,2,HEAD,0,0,True
+228421,Recipe: Melted Candlebar,RARE,70,1,Recipe,9,Cooking,5,NON_EQUIP,200000,50000,False
