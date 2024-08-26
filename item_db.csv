@@ -17733,3 +17733,9 @@ id,name,quality,level,required_level,item_class_name,item_class_id,item_subclass
 228072,Companion Experience,RARE,1,1,Consumable,0,Other,8,NON_EQUIP,0,0,False
 227696,Preserved Distressed Visor,RARE,1,68,Armor,4,Leather,2,HEAD,0,0,True
 228421,Recipe: Melted Candlebar,RARE,70,1,Recipe,9,Cooking,5,NON_EQUIP,200000,50000,False
+17781,The Pariah's Instructions,COMMON,1,0,Quest,12,Quest,0,NON_EQUIP,0,0,False
+182739,Buckled Chain Belt,UNCOMMON,125,48,Armor,4,Mail,3,WAIST,1321883,264376,True
+215145,Remembrance Stone,RARE,1,1,Miscellaneous,15,Other,4,NON_EQUIP,1000000,200000,False
+37148,Loose Singed Page,COMMON,1,0,Miscellaneous,15,Junk,0,NON_EQUIP,35000,8750,False
+62246,Fortune Card,COMMON,3,0,Tradeskill,7,Other,11,NON_EQUIP,200000,5000,False
+227697,Preserved Moth-Ridden Hood,RARE,1,68,Armor,4,Cloth,1,HEAD,0,0,True
