@@ -17739,3 +17739,4 @@ id,name,quality,level,required_level,item_class_name,item_class_id,item_subclass
 37148,Loose Singed Page,COMMON,1,0,Miscellaneous,15,Junk,0,NON_EQUIP,35000,8750,False
 62246,Fortune Card,COMMON,3,0,Tradeskill,7,Other,11,NON_EQUIP,200000,5000,False
 227697,Preserved Moth-Ridden Hood,RARE,1,68,Armor,4,Cloth,1,HEAD,0,0,True
+55076,Bloodied Pyrium Legguards,RARE,37,32,Armor,4,Plate,4,LEGS,350359,70071,True
