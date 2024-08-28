@@ -17740,3 +17740,18 @@ id,name,quality,level,required_level,item_class_name,item_class_id,item_subclass
 62246,Fortune Card,COMMON,3,0,Tradeskill,7,Other,11,NON_EQUIP,200000,5000,False
 227697,Preserved Moth-Ridden Hood,RARE,1,68,Armor,4,Cloth,1,HEAD,0,0,True
 55076,Bloodied Pyrium Legguards,RARE,37,32,Armor,4,Plate,4,LEGS,350359,70071,True
+156650,Much-Too-Hot Pepper,COMMON,1,0,Miscellaneous,15,Other,4,NON_EQUIP,0,0,False
+9250,Water-Damaged Ship Schedule,POOR,17,17,Miscellaneous,15,Junk,0,NON_EQUIP,400,100,False
+228320,Design: Binding of Binding,RARE,1,1,Recipe,9,Jewelcrafting,10,NON_EQUIP,2000000,500000,False
+227281,Recipe: Feast of the Midnight Masquerade,COMMON,70,1,Recipe,9,Cooking,5,NON_EQUIP,200000,50000,False
+223135,Formula: Illusory Adornment: Shadow,RARE,1,1,Recipe,9,Enchanting,8,NON_EQUIP,2000000,1,False
+227283,Recipe: Feast of the Divine Day,RARE,70,1,Recipe,9,Cooking,5,NON_EQUIP,200000,50000,False
+223138,Formula: Enchant Cloak - Chant of Winged Grace,RARE,1,1,Recipe,9,Enchanting,8,NON_EQUIP,2000000,1,False
+223126,Formula: Enchant Chest - Stormrider's Agility,RARE,1,1,Recipe,9,Enchanting,8,NON_EQUIP,2000000,1,False
+223134,Formula: Illusory Adornment: Radiance,RARE,1,1,Recipe,9,Enchanting,8,NON_EQUIP,2000000,1,False
+223099,Pattern: Sanctified Torchbearer's Grips,EPIC,1,1,Recipe,9,Leatherworking,1,NON_EQUIP,2000000,500000,False
+223095,Pattern: Rook Feather Wristwraps,EPIC,1,1,Recipe,9,Leatherworking,1,NON_EQUIP,2000000,500000,False
+223036,Plans: Charged Runeaxe,EPIC,1,1,Recipe,9,Blacksmithing,4,NON_EQUIP,200000,50000,False
+223040,Plans: Charged Crusher,EPIC,1,1,Recipe,9,Blacksmithing,4,NON_EQUIP,200000,50000,False
+14478,Pattern: Brightcloth Robe,POOR,1,0,Recipe,9,Tailoring,2,NON_EQUIP,14000,3500,False
+224426,Pattern: Ignition Satchel,RARE,1,1,Recipe,9,Tailoring,2,NON_EQUIP,200000,50000,False
