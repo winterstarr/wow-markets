@@ -17755,3 +17755,6 @@ id,name,quality,level,required_level,item_class_name,item_class_id,item_subclass
 223040,Plans: Charged Crusher,EPIC,1,1,Recipe,9,Blacksmithing,4,NON_EQUIP,200000,50000,False
 14478,Pattern: Brightcloth Robe,POOR,1,0,Recipe,9,Tailoring,2,NON_EQUIP,14000,3500,False
 224426,Pattern: Ignition Satchel,RARE,1,1,Recipe,9,Tailoring,2,NON_EQUIP,200000,50000,False
+225679,Design: Enduring Bloodstone,RARE,1,1,Recipe,9,Jewelcrafting,10,NON_EQUIP,200000,50000,False
+225680,Design: Cognitive Bloodstone,RARE,1,1,Recipe,9,Jewelcrafting,10,NON_EQUIP,200000,50000,False
+225681,Design: Determined Bloodstone,RARE,1,1,Recipe,9,Jewelcrafting,10,NON_EQUIP,200000,50000,False

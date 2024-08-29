@@ -1,44 +1,54 @@
 id,name,other_realms,type,category,rank,score,population,population_h,population_a,pop,locale
+3678,Thrall,thrall,PvE,United States,1,750000.0,18643,18061,582,FULL,America/New_York
+3675,Moon Guard,moon-guard,RP,United States,21,186500.0,6743,1085,5658,FULL,America/Chicago
+3676,Area 52,area-52,PvE,United States,1,750000.0,37919,36355,1564,FULL,America/New_York
+3684,Mal'Ganis,malganis,PvP,United States,1,750000.0,18405,17701,704,FULL,America/Chicago
+3685,Turalyon,turalyon,PvE,United States,53,9800.0,1500,952,548,LOW,America/New_York
+3661,Hyjal,hyjal,PvE,United States,17,325500.0,5790,5107,683,HIGH,America/Los_Angeles
+3721,Caelestrasz,"caelestrasz,nagrand,saurfang",PvE,Oceanic,29,113120.0,6236,3081,3155,HIGH,Australia/Melbourne
+3723,Barthilas,barthilas,PvP,Oceanic,15,331500.0,9647,9350,297,HIGH,Australia/Melbourne
+3693,Kel'Thuzad,kelthuzad,PvP,United States,18,276000.0,4485,615,3870,HIGH,America/Denver
+3694,Lightbringer,lightbringer,PvE,United States,45,22530.0,3373,286,3087,MEDIUM,America/Los_Angeles
+3725,Frostmourne,"frostmourne,dreadmaul,thaurissan,jubeithos,gundrak",PvP,Oceanic,1,750000.0,20663,3292,17371,FULL,Australia/Melbourne
+3726,Khaz'goroth,"khazgoroth,amanthul,dathremar",PvE,Oceanic,24,167500.0,6363,2265,4098,HIGH,Australia/Melbourne
 75,Argent Dawn,"argent-dawn,the-scryers",RP,United States,67,2890.0,951,372,579,LOW,America/New_York
 84,Dragonmaw,"dragonmaw,uldum,akama,korialstrasz,eldrethalas,mugthol,antonidas",PvP,United States,34,70090.0,4596,2487,2109,HIGH,America/Los_Angeles
 86,Silvermoon,"silvermoon,skywall,terenas,hydraxis,drakthul,borean-tundra,moknathal,shadowsong",PvE,United States,30,111120.0,5730,2268,3462,HIGH,America/Los_Angeles
-3725,Frostmourne,"frostmourne,dreadmaul,thaurissan,jubeithos,gundrak",PvP,Oceanic,1,750000.0,20663,3292,17371,FULL,Australia/Melbourne
-3726,Khaz'goroth,"khazgoroth,amanthul,dathremar",PvE,Oceanic,24,167500.0,6363,2265,4098,HIGH,Australia/Melbourne
 96,Eonar,"eonar,skullcrusher,guldan,zuluhed,ursin,andorhal,black-dragonflight,velen,scilla",PvP,United States,47,21090.0,4657,3119,1538,HIGH,America/New_York
-58,Stormreaver,stormreaver,PvP,United States,44,50261.6,895,724,171,LOW,America/Chicago
 99,Llane,"llane,arygos",PvE,United States,58,6277.6,967,239,728,LOW,America/New_York
-1072,Ravencrest,"ravencrest,uldaman",PvE,United States,81,192.5,673,242,431,LOW,America/Chicago
 100,Earthen Ring,earthen-ring,RP,United States,54,9250.0,1153,616,537,LOW,America/New_York
 104,Malygos,"malygos,garona,lightnings-blade,icecrown,onyxia,burning-blade",PvP,United States,26,162590.0,5617,2770,2847,HIGH,America/Chicago
-67,Elune,"elune,laughing-skull,auchindoun,chogall,gilneas",PvP,United States,46,22000.0,3816,2166,1650,MEDIUM,America/New_York
 114,Dragonblight,"dragonblight,fenris",PvE,United States,80,690.8,1038,384,654,LOW,America/Los_Angeles
 53,Hellscream,"hellscream,gorefiend,spinebreaker,zangarmarsh,wildhammer,eredar",PvP,United States,48,14710.0,3918,2274,1644,FULL,America/Chicago
 4,Kilrogg,"kilrogg,winterhoof",PvE,United States,65,3346.0,801,381,420,LOW,America/Los_Angeles
+58,Stormreaver,stormreaver,PvP,United States,44,50261.6,895,724,171,LOW,America/Chicago
 47,Eitrigg,"eitrigg,shuhalo",PvE,United States,76,1752.9,974,438,536,LOW,America/Chicago
 118,Feathermoon,"feathermoon,scarlet-crusade",RP,United States,68,2846.0,1300,544,756,LOW,America/Los_Angeles
+1175,Trollbane,"trollbane,grizzly-hills,malfurion,lothar,kaelthas,gnomeregan,moonrunner,ghostlands",PvE,United States,22,178000.0,7020,2833,4187,HIGH,America/New_York
 5,Proudmoore,proudmoore,PvE,United States,12,658000.0,14884,868,14016,FULL,America/Los_Angeles
+12,Silver Hand,"silver-hand,thorium-brotherhood,farstriders",RP,United States,72,2420.0,1457,740,717,LOW,America/Los_Angeles
+1184,Vek'nilash,"veknilash,nazgrel,nesingwary",PvE,United States,75,1790.0,1457,420,1037,LOW,America/Chicago
 1168,Cairne,"cairne,cenarius,frostmane,tortheldrin,nerzhul,korgath,perenolde",PvP,United States,32,79000.0,4771,2052,2719,HIGH,America/Los_Angeles
-12,Silver Hand,"silver-hand,thorium-brotherhood,farstriders",RP,United States,72,2420.0,1457,740,717,MEDIUM,America/Los_Angeles
 1171,Wyrmrest Accord,wyrmrest-accord,RP,United States,31,83000.0,5478,4252,1226,HIGH,America/Los_Angeles
 1136,Aegwynn,"aegwynn,gurubashi,bonechewer,hakkar,garrosh,daggerspine",PvP,United States,49,13150.0,5456,3390,2066,RECOMMENDED,America/Chicago
 162,Emerald Dream,emerald-dream,RP-PvP,United States,14,372500.0,5509,3404,2105,HIGH,America/Chicago
 54,Blackhand,"blackhand,galakrond",PvE,United States,60,5753.3,1279,572,707,LOW,America/Chicago
 55,Whisperwind,"whisperwind,dentarg",PvE,United States,23,171120.0,3577,828,2749,MEDIUM,America/Chicago
-60,Stormrage,stormrage,PvE,United States,1,750000.0,29761,366,29395,FULL,America/New_York
-63,Durotan,"durotan,ysera",PvE,United States,61,5360.0,1733,691,1042,LOW,America/New_York
-1184,Vek'nilash,"veknilash,nazgrel,nesingwary",PvE,United States,75,1790.0,1457,420,1037,LOW,America/Chicago
-64,Bloodhoof,"bloodhoof,duskwood",PvE,United States,73,2390.0,1611,613,998,LOW,America/New_York
 151,Runetotem,"runetotem,uther",PvE,United States,69,2837.0,1030,406,624,LOW,America/Chicago
-1151,Rexxar,"rexxar,misha",PvE,United States,64,3684.0,1126,449,677,LOW,America/Chicago
+60,Stormrage,stormrage,PvE,United States,1,750000.0,29761,366,29395,FULL,America/New_York
+64,Bloodhoof,"bloodhoof,duskwood",PvE,United States,73,2390.0,1611,613,998,LOW,America/New_York
+115,Draenor,"draenor,echo-isles",PvE,United States,62,4223.6,1054,172,882,LOW,America/Los_Angeles
+63,Durotan,"durotan,ysera",PvE,United States,61,5360.0,1733,691,1042,LOW,America/New_York
+106,Aggramar,"aggramar,fizzcrank",PvE,United States,52,11300.0,2151,661,1490,FULL,America/Chicago
 160,Staghelm,"staghelm,dawnbringer,madoran,azuremyst",PvE,United States,56,8800.0,2662,1105,1557,MEDIUM,America/Chicago
+1151,Rexxar,"rexxar,misha",PvE,United States,64,3684.0,1126,449,677,LOW,America/Chicago
 57,Illidan,illidan,PvP,United States,1,750000.0,32069,30656,1413,FULL,America/Chicago
 76,Sargeras,sargeras,PvP,United States,1,750000.0,15843,1233,14610,FULL,America/Chicago
 77,Azgalor,"azgalor,thunderlord,destromath,blood-furnace,mannoroth,nazjatar,azshara",PvP,United States,33,72000.0,4445,2726,1719,RECOMMENDED,America/Chicago
-78,Magtheridon,"magtheridon,anetheron,ysondre,altar-of-storms",PvP,United States,38,65195.0,1174,735,439,LOW,America/New_York
-73,Bleeding Hollow,bleeding-hollow,PvP,United States,12,658000.0,8496,7896,600,HIGH,America/New_York
 1425,Drakkari,drakkari,PvP,Latin America,51,11688.0,3074,1752,1322,RECOMMENDED,America/Chicago
+78,Magtheridon,"magtheridon,anetheron,ysondre,altar-of-storms",PvP,United States,38,65195.0,1174,735,439,LOW,America/New_York
 1426,Aerie Peak,aerie-peak,PvE,United States,41,60770.0,2259,553,1706,MEDIUM,America/Los_Angeles
-1427,Ragnaros,ragnaros,PvP,Latin America,1,750000.0,16227,13401,2826,HIGH,America/Chicago
+1427,Ragnaros,ragnaros,PvP,Latin America,1,750000.0,16227,13401,2826,FULL,America/Chicago
 125,Shadow Council,"shadow-council,sisters-of-elune,cenarion-circle,blackwater-raiders",RP,United States,50,11830.0,2158,1050,1108,MEDIUM,America/Denver
 1070,Alexstrasza,"alexstrasza,terokkar",PvE,United States,71,2642.5,932,353,579,LOW,America/Chicago
 1071,Kirin Tor,"kirin-tor,steamwheedle-cartel,sentinels",RP,United States,70,2670.9,657,153,504,LOW,America/Chicago
@@ -54,31 +64,21 @@ id,name,other_realms,type,category,rank,score,population,population_h,population
 52,Alleria,"alleria,exodar,medivh,khadgar",PvE,United States,39,64210.0,3244,482,2762,HIGH,America/Chicago
 69,Arthas,arthas,PvP,United States,57,8264.0,1665,1344,321,LOW,America/New_York
 154,Detheroc,"detheroc,dethecus,lethon,blackwing-lair,shadowmoon,haomarush",PvP,United States,59,6152.92,1069,497,572,LOW,America/Chicago
+1072,Ravencrest,"ravencrest,uldaman",PvE,United States,81,192.5,673,242,431,LOW,America/Chicago
+67,Elune,"elune,laughing-skull,auchindoun,chogall,gilneas",PvP,United States,46,22000.0,3816,2166,1650,MEDIUM,America/New_York
 3234,Gallywix,gallywix,PvE,Brazil,83,33.9,249,132,117,RECOMMENDED,America/Sao_Paulo
-115,Draenor,"draenor,echo-isles",PvE,United States,62,4223.6,1054,172,882,LOW,America/Los_Angeles
 158,Greymane,"greymane,tanaris",PvE,United States,66,3289.0,1190,400,790,LOW,America/Chicago
+1185,Sen'jin,"senjin,dunemaul,maiev,bloodscalp,queldorei,boulderfist,stonemaul",PvE,United States,37,65680.0,4625,3158,1467,HIGH,America/Chicago
 9,Kil'jaeden,kiljaeden,PvP,United States,25,165090.0,3375,2953,422,MEDIUM,America/Los_Angeles
 120,Darkspear,darkspear,PvP,United States,74,2002.7,714,385,329,LOW,America/Denver
 117,Bronzebeard,"bronzebeard,shandris",PvE,United States,77,1715.5,799,345,454,LOW,America/Los_Angeles
 1138,Chromaggus,"chromaggus,nathrezim,smolderthorn,anubarak,arathor,garithos,drenden,crushridge",PvP,United States,36,66590.0,2777,1189,1588,MEDIUM,America/Chicago
-1428,Quel'Thalas,quelthalas,PvE,Latin America,20,188000.0,13083,6134,6949,HIGH,America/Chicago
 71,Warsong,"warsong,gorgonnash,the-forgotten-coast,balnazzar,alterac-mountains,undermine,anvilmar",PvP,United States,27,153770.0,1881,763,1118,FULL,America/New_York
-3208,Nemesis,"nemesis,tol-barad",PvP,Brazil,79,1141.8,2143,148,1995,LOW,America/Sao_Paulo
-3207,Goldrinn,goldrinn,PvE,Brazil,82,157.58,669,228,441,LOW,America/Sao_Paulo
-3209,Azralon,azralon,PvP,Brazil,1,750000.0,13439,12919,520,FULL,America/Sao_Paulo
-1175,Trollbane,"trollbane,grizzly-hills,malfurion,lothar,kaelthas,gnomeregan,moonrunner,ghostlands",PvE,United States,22,178000.0,7020,2833,4187,HIGH,America/New_York
-3683,Dalaran,dalaran,PvE,United States,16,330000.0,11524,3858,7666,FULL,America/New_York
-3684,Mal'Ganis,malganis,PvP,United States,1,750000.0,18405,17701,704,FULL,America/Chicago
-3685,Turalyon,turalyon,PvE,United States,53,9800.0,1500,952,548,LOW,America/New_York
-3676,Area 52,area-52,PvE,United States,1,750000.0,37919,36355,1564,FULL,America/New_York
-3678,Thrall,thrall,PvE,United States,1,750000.0,18643,18061,582,FULL,America/New_York
-3675,Moon Guard,moon-guard,RP,United States,21,186500.0,6743,1085,5658,FULL,America/Chicago
-3661,Hyjal,hyjal,PvE,United States,17,325500.0,5790,5107,683,HIGH,America/Los_Angeles
-127,Firetree,"firetree,draktharon,rivendare,vashj,spirestone,malorne,frostwolf,stormscale",PvP,United States,28,122000.0,4104,2732,1372,HIGH,America/New_York
-3693,Kel'Thuzad,kelthuzad,PvP,United States,18,276000.0,4485,615,3870,HIGH,America/Denver
-106,Aggramar,"aggramar,fizzcrank",PvE,United States,52,11300.0,2151,661,1490,FULL,America/Chicago
-3694,Lightbringer,lightbringer,PvE,United States,45,22530.0,3373,286,3087,MEDIUM,America/Los_Angeles
-3721,Caelestrasz,"caelestrasz,nagrand,saurfang",PvE,Oceanic,29,113120.0,6236,3081,3155,HIGH,Australia/Melbourne
+1428,Quel'Thalas,quelthalas,PvE,Latin America,20,188000.0,13083,6134,6949,HIGH,America/Chicago
 121,Azjol-Nerub,"azjolnerub,muradin,nordrassil,blackrock,khaz-modan",PvE,United States,35,70060.0,3972,2081,1891,HIGH,America/Denver
-1185,Sen'jin,"senjin,dunemaul,maiev,bloodscalp,queldorei,boulderfist,stonemaul",PvE,United States,37,65680.0,4625,3158,1467,HIGH,America/Chicago
-3723,Barthilas,barthilas,PvP,Oceanic,15,331500.0,9647,9350,297,HIGH,Australia/Melbourne
+73,Bleeding Hollow,bleeding-hollow,PvP,United States,12,658000.0,8496,7896,600,HIGH,America/New_York
+3207,Goldrinn,goldrinn,PvE,Brazil,82,157.58,669,228,441,LOW,America/Sao_Paulo
+127,Firetree,"firetree,draktharon,rivendare,vashj,spirestone,malorne,frostwolf,stormscale",PvP,United States,28,122000.0,4104,2732,1372,HIGH,America/New_York
+3208,Nemesis,"nemesis,tol-barad",PvP,Brazil,79,1141.8,2143,148,1995,LOW,America/Sao_Paulo
+3683,Dalaran,dalaran,PvE,United States,16,330000.0,11524,3858,7666,FULL,America/New_York
+3209,Azralon,azralon,PvP,Brazil,1,750000.0,13439,12919,520,FULL,America/Sao_Paulo
