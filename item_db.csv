@@ -17758,3 +17758,6 @@ id,name,quality,level,required_level,item_class_name,item_class_id,item_subclass
 225679,Design: Enduring Bloodstone,RARE,1,1,Recipe,9,Jewelcrafting,10,NON_EQUIP,200000,50000,False
 225680,Design: Cognitive Bloodstone,RARE,1,1,Recipe,9,Jewelcrafting,10,NON_EQUIP,200000,50000,False
 225681,Design: Determined Bloodstone,RARE,1,1,Recipe,9,Jewelcrafting,10,NON_EQUIP,200000,50000,False
+60845,Fortune Card,RARE,27,0,Tradeskill,7,Other,11,NON_EQUIP,80000000,200000,False
+14498,Pattern: Runecloth Headband,POOR,1,0,Recipe,9,Tailoring,2,NON_EQUIP,25000,6250,False
+116024,Holy Tome,POOR,1,1,Consumable,0,Other,8,NON_EQUIP,4000,1000,False
