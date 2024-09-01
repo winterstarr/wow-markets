@@ -17761,3 +17761,6 @@ id,name,quality,level,required_level,item_class_name,item_class_id,item_subclass
 60845,Fortune Card,RARE,27,0,Tradeskill,7,Other,11,NON_EQUIP,80000000,200000,False
 14498,Pattern: Runecloth Headband,POOR,1,0,Recipe,9,Tailoring,2,NON_EQUIP,25000,6250,False
 116024,Holy Tome,POOR,1,1,Consumable,0,Other,8,NON_EQUIP,4000,1000,False
+36716,Threatening Darts,POOR,33,28,Weapon,2,Thrown,16,THROWN,124616,31154,True
+70022,Bloodthirsty Leather Bracers,RARE,37,32,Armor,4,Leather,2,WRIST,188714,37742,True
+16214,Formula: Enchant Bracer - Greater Intellect,UNCOMMON,1,0,Recipe,9,Enchanting,8,NON_EQUIP,12000,3000,False
