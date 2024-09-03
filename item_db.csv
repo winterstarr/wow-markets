@@ -17764,3 +17764,9 @@ id,name,quality,level,required_level,item_class_name,item_class_id,item_subclass
 36716,Threatening Darts,POOR,33,28,Weapon,2,Thrown,16,THROWN,124616,31154,True
 70022,Bloodthirsty Leather Bracers,RARE,37,32,Armor,4,Leather,2,WRIST,188714,37742,True
 16214,Formula: Enchant Bracer - Greater Intellect,UNCOMMON,1,0,Recipe,9,Enchanting,8,NON_EQUIP,12000,3000,False
+56540,Bloodied Wyrmhide Shoulders,RARE,37,32,Armor,4,Leather,2,SHOULDER,257286,51457,True
+7985,Plans: Ornate Mithril Shoulder,UNCOMMON,1,0,Recipe,9,Blacksmithing,4,NON_EQUIP,8000,2000,False
+62589,Fortune Card,COMMON,3,0,Tradeskill,7,Other,11,NON_EQUIP,200000,5000,False
+62567,Fortune Card,COMMON,1,0,Tradeskill,7,Other,11,NON_EQUIP,4000,1000,False
+18674,Hardened Stone Band,UNCOMMON,29,23,Armor,4,Miscellaneous,0,FINGER,88014,22003,True
+213532,Void Rune,POOR,70,1,Miscellaneous,15,Junk,0,NON_EQUIP,2569064,1214582,False
