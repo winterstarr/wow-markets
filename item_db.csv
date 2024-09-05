@@ -17770,3 +17770,5 @@ id,name,quality,level,required_level,item_class_name,item_class_id,item_subclass
 62567,Fortune Card,COMMON,1,0,Tradeskill,7,Other,11,NON_EQUIP,4000,1000,False
 18674,Hardened Stone Band,UNCOMMON,29,23,Armor,4,Miscellaneous,0,FINGER,88014,22003,True
 213532,Void Rune,POOR,70,1,Miscellaneous,15,Junk,0,NON_EQUIP,2569064,1214582,False
+70074,Bloodthirsty Sapphire Necklace,RARE,37,32,Armor,4,Miscellaneous,0,NECK,497824,124456,True
+22605,Craftsman's Writ - Wicked Leather Headband,COMMON,25,23,Quest,12,Quest,0,NON_EQUIP,0,0,False
