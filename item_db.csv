@@ -17772,3 +17772,5 @@ id,name,quality,level,required_level,item_class_name,item_class_id,item_subclass
 213532,Void Rune,POOR,70,1,Miscellaneous,15,Junk,0,NON_EQUIP,2569064,1214582,False
 70074,Bloodthirsty Sapphire Necklace,RARE,37,32,Armor,4,Miscellaneous,0,NECK,497824,124456,True
 22605,Craftsman's Writ - Wicked Leather Headband,COMMON,25,23,Quest,12,Quest,0,NON_EQUIP,0,0,False
+55475,Mardenholde Knives,POOR,36,31,Weapon,2,Thrown,16,THROWN,262308,65577,True
+70017,Bloodthirsty Ornate Pyrium Shoulders,RARE,37,32,Armor,4,Plate,4,SHOULDER,275944,55188,True
