@@ -17781,3 +17781,5 @@ id,name,quality,level,required_level,item_class_name,item_class_id,item_subclass
 49285,X-51 Nether-Rocket,RARE,30,10,Miscellaneous,15,Mount,5,NON_EQUIP,1000000,0,False
 20695,Abyssal War Beads,RARE,29,24,Armor,4,Miscellaneous,0,NECK,145012,36253,True
 22601,Craftsman's Writ - Imperial Plate Chest,COMMON,25,23,Quest,12,Quest,0,NON_EQUIP,0,0,False
+223097,Pattern: Adrenal Surge Clasp,EPIC,1,1,Recipe,9,Leatherworking,1,NON_EQUIP,2000000,500000,False
+14469,Pattern: Runecloth Robe,COMMON,1,0,Recipe,9,Tailoring,2,NON_EQUIP,12000,3000,False
